@@ -1,0 +1,76 @@
+
+---
+title: "The Effect of Discounts on Retail Sales"
+description: "Applied machine learning and statistical analysis examining the relationship between promotional discounts and retail sales performance."
+categories:
+  - Machine Learning
+  - Marketing Analytics
+  - Statistical Analysis
+  - Retail Marketing
+toc: true
+---
+
+## Project Overview
+
+This graduate-level applied machine learning project examines the relationship between promotional discounts and retail sales performance.
+
+The project explores how statistical analysis and predictive modeling can support retail pricing and promotional decision-making.
+
+## Business Problem
+
+Retail organizations frequently use discounts to stimulate consumer demand. However, promotional decisions must balance potential sales growth against profitability and long-term business performance.
+
+## Research Objectives
+
+- Examine the relationship between discounts and retail sales.
+- Explore factors associated with sales performance.
+- Evaluate the usefulness of statistical and predictive modeling for promotional decisions.
+- Translate analytical insights into managerial recommendations.
+
+## Analytical Framework
+
+The project addresses the following analytical stages:
+
+1. Data preparation and exploration
+2. Descriptive statistical analysis
+3. Exploratory data visualization
+4. Statistical and predictive modeling
+5. Model evaluation
+6. Managerial interpretation
+
+## Technical Skills
+
+| Competency | Application |
+|---|---|
+| R Programming | Statistical computing |
+| Data Preparation | Organizing analytical datasets |
+| Exploratory Data Analysis | Identifying patterns and relationships |
+| Regression | Examining relationships between variables |
+| Machine Learning | Predictive analytical approaches |
+| Data Visualization | Communicating analytical insights |
+| Quarto | Reproducible reporting |
+
+## Business Applications
+
+The analytical framework can support:
+
+- Promotional campaign planning
+- Retail pricing strategy
+- Sales forecasting
+- Discount effectiveness evaluation
+- Marketing resource allocation
+
+## Professional Relevance
+
+This project demonstrates how marketing analytics and machine learning can be applied to commercial decision-making, connecting quantitative research with practical retail marketing strategy.
+
+## Academic Context
+
+- **Institution:** California State Polytechnic University, Pomona
+- **Program:** Master of Science in Digital Marketing
+- **Course:** IBM 6540 — Applied Machine Learning
+- **Project type:** Collaborative academic research
+
+## Project Limitations
+
+This portfolio entry summarizes the research scope and analytical framework. Specific model results and performance metrics are not reported here.

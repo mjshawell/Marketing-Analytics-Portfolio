@@ -1,0 +1,661 @@
+---
+title: "Case 31 | Credit Union Customer Insights"
+format:
+  dashboard:
+    theme: [cosmo, theme.scss]
+    css: styles.css
+    scrolling: true
+    embed-resources: false
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+```{r}
+#| label: setup
+#| include: false
+
+library(plotly)
+library(tidyr)
+library(dplyr)
+library(knitr)
+
+# Employee performance data
+
+employees <- data.frame(
+  Attribute = c(
+    "Courtesy",
+    "Helpfulness",
+    "Professionalism",
+    "Availability"
+  ),
+  Rating = c(4.35, 4.31, 4.08, 4.08)
+)
+
+# Financial product awareness data
+
+services <- data.frame(
+  Product = c(
+    "Regular share account",
+    "Special subaccounts",
+    "Christmas club account",
+    "IRA",
+    "Master credit card",
+    "Signature loans",
+    "New car loans",
+    "Late model car loans",
+    "Older model car loans",
+    "Household goods loans",
+    "Recreational loans",
+    "Share collateralized loan",
+    "IRA loans",
+    "Line of credit loans"
+  ),
+  Used = c(
+    13, 12, 11, 29, 56, 19, 24,
+    14, 12, 11, 13, 2, 4, 48
+  ),
+  Aware = c(
+    32, 70, 75, 64, 57, 104, 99,
+    102, 83, 80, 60, 57, 46, 80
+  ),
+  Unlabeled = c(
+    83, 46, 42, 35, 15, 5, 5,
+    12, 33, 37, 55, 69, 78, 0
+  )
+)
+
+# Geographic segmentation data
+
+segments <- data.frame(
+  Metric = c(
+    "Employee performance",
+    "Member needs",
+    "Savings rates"
+  ),
+  Headquarters = c(4.28, 3.60, 3.04),
+  Elsewhere = c(4.14, 3.59, 3.09)
+)
+
+# Dashboard color palette
+
+navy <- "#142B42"
+blue <- "#245578"
+light_blue <- "#86B6CF"
+gray <- "#B9BDC4"
+
+# Consistent Plotly configuration
+
+configure_chart <- function(p) {
+  plotly::config(
+    p,
+    responsive = TRUE,
+    displaylogo = FALSE,
+    displayModeBar = TRUE
+  )
+}
+```
+
+# Overview
+
+## Row {height="180px"}
+
+```{r}
+#| content: valuebox
+#| title: "Survey respondents"
+
+list(
+  value = 128,
+  icon = "people",
+  color = "primary"
+)
+```
+
+```{r}
+#| content: valuebox
+#| title: "Employee performance / 5"
+
+list(
+  value = 4.21,
+  icon = "star",
+  color = "primary"
+)
+```
+
+```{r}
+#| content: valuebox
+#| title: "Member needs / 5"
+
+list(
+  value = 3.59,
+  icon = "check-circle",
+  color = "primary"
+)
+```
+
+```{r}
+#| content: valuebox
+#| title: "Agree rates are lower"
+
+list(
+  value = "29.7%",
+  icon = "percent",
+  color = "primary"
+)
+```
+
+## Row {height="180px"}
+
+```{r}
+#| content: valuebox
+#| title: "Savings rate rating / 5"
+
+list(
+  value = 3.07,
+  icon = "bank",
+  color = "primary"
+)
+```
+
+```{r}
+#| content: valuebox
+#| title: "Favorable needs rating"
+
+list(
+  value = "59.4%",
+  icon = "hand-thumbs-up",
+  color = "primary"
+)
+```
+
+```{r}
+#| content: valuebox
+#| title: "Cronbach's alpha"
+
+list(
+  value = 0.866,
+  icon = "clipboard-check",
+  color = "primary"
+)
+```
+
+## Row {height="500px"}
+
+### Column {width="60%"}
+
+```{r}
+#| title: "Employee performance by attribute"
+
+plot_ly(
+  data = employees,
+  x = ~Rating,
+  y = ~Attribute,
+  type = "bar",
+  orientation = "h",
+  marker = list(
+    color = blue
+  ),
+  text = ~sprintf("%.2f", Rating),
+  textposition = "outside",
+  hovertemplate = paste0(
+    "%{y}",
+    "<br>Mean rating: %{x:.2f}/5",
+    "<br>Valid responses: 128",
+    "<extra></extra>"
+  )
+) |>
+  layout(
+    xaxis = list(
+      title = "Mean rating (1–5)",
+      range = c(0, 5),
+      dtick = 1,
+      gridcolor = "#E5E7EB"
+    ),
+    yaxis = list(
+      title = "",
+      automargin = TRUE,
+      categoryorder = "array",
+      categoryarray = rev(employees$Attribute)
+    ),
+    margin = list(
+      l = 130,
+      r = 40,
+      t = 30,
+      b = 60
+    ),
+    font = list(
+      family = "Arial",
+      color = navy
+    ),
+    paper_bgcolor = "white",
+    plot_bgcolor = "white",
+    showlegend = FALSE
+  ) |>
+  configure_chart()
+```
+
+### Column {width="40%"}
+
+#### Key findings
+
+- Employee performance averages **4.21/5**, with good internal consistency (Cronbach's alpha = 0.866).
+
+- Courtesy and helpfulness are the strongest employee attributes, receiving average ratings of **4.35** and **4.31**, respectively.
+
+- Professionalism and availability both average **4.08/5**, representing relative opportunities for improvement.
+
+- Savings rate perceptions average **3.07/5** after reverse coding and excluding no-opinion responses.
+
+- **59.4%** agree or strongly agree that the credit union meets member needs.
+
+- Only **29.7%** agree or strongly agree that the credit union offers lower rates.
+
+## Row {height="300px"}
+
+### Managerial recommendations
+
+**Strengthen competitive positioning**
+
+Investigate how members perceive the credit union's interest rates relative to competing financial institutions. Communicate verified financial benefits more clearly.
+
+**Maintain employee service quality**
+
+Preserve the credit union's strengths in employee courtesy and helpfulness while identifying opportunities to improve professionalism and availability.
+
+**Improve member satisfaction**
+
+Conduct additional research to identify unmet financial needs and develop targeted service improvements.
+
+# Product awareness
+
+## Row {height="750px"}
+
+```{r}
+#| title: "Financial product awareness and usage"
+
+long <- services |>
+  pivot_longer(
+    cols = -Product,
+    names_to = "Response",
+    values_to = "Count"
+  ) |>
+  mutate(
+    Percent = 100 * Count / 128,
+    Response = factor(
+      Response,
+      levels = c(
+        "Used",
+        "Aware",
+        "Unlabeled"
+      ),
+      labels = c(
+        "Aware and used",
+        "Aware, not used",
+        "Unlabeled code 3"
+      )
+    ),
+    Product = factor(
+      Product,
+      levels = rev(services$Product)
+    )
+  )
+
+plot_ly(
+  data = long,
+  x = ~Percent,
+  y = ~Product,
+  color = ~Response,
+  colors = c(
+    blue,
+    light_blue,
+    gray
+  ),
+  type = "bar",
+  orientation = "h",
+  customdata = ~Count,
+  hovertemplate = paste0(
+    "%{y}",
+    "<br>Percentage: %{x:.1f}%",
+    "<br>Respondents: %{customdata}"
+  )
+) |>
+  layout(
+    barmode = "stack",
+    bargap = 0.25,
+    xaxis = list(
+      title = "Percentage of respondents",
+      range = c(0, 100),
+      dtick = 20,
+      ticksuffix = "%",
+      gridcolor = "#E5E7EB"
+    ),
+    yaxis = list(
+      title = "",
+      automargin = TRUE,
+      categoryorder = "array",
+      categoryarray = rev(services$Product)
+    ),
+    legend = list(
+      orientation = "h",
+      x = 0,
+      y = -0.15
+    ),
+    margin = list(
+      l = 190,
+      r = 30,
+      t = 30,
+      b = 110
+    ),
+    font = list(
+      family = "Arial",
+      color = navy
+    ),
+    paper_bgcolor = "white",
+    plot_bgcolor = "white"
+  ) |>
+  configure_chart()
+```
+
+## Row {height="600px"}
+
+### Product awareness and usage summary
+
+```{r}
+#| title: "Financial product performance"
+
+product_summary <- services |>
+  mutate(
+    `Usage (%)` = round(
+      Used / 128 * 100,
+      1
+    ),
+    `Confirmed awareness (%)` = round(
+      (Used + Aware) / 128 * 100,
+      1
+    ),
+    `Unlabeled responses (%)` = round(
+      Unlabeled / 128 * 100,
+      1
+    )
+  ) |>
+  select(
+    Product,
+    `Usage (%)`,
+    `Confirmed awareness (%)`,
+    `Unlabeled responses (%)`
+  ) |>
+  arrange(
+    desc(`Usage (%)`)
+  )
+
+knitr::kable(
+  product_summary,
+  digits = 1,
+  align = c("l", "r", "r", "r")
+)
+```
+
+## Row {height="350px"}
+
+### Interpretation and marketing implications
+
+- Master credit card has the highest reported usage at **43.8%**.
+
+- Line of credit loans have **100% confirmed awareness** and 37.5% reported usage.
+
+- Signature loans and new car loans both have **96.1% confirmed awareness**.
+
+- Share collateralized loans have the lowest reported usage at **1.6%**.
+
+- The credit union should investigate barriers to usage among members who are aware of financial products but have not used them.
+
+**Measurement limitation:** Code 3 is not labeled in the supplied SPSS metadata. It is retained as an unlabeled category rather than being interpreted as a lack of awareness.
+
+# Geographic comparison
+
+## Row {height="180px"}
+
+```{r}
+#| content: valuebox
+#| title: "Headquarters-area respondents"
+
+list(
+  value = 57,
+  icon = "geo-alt",
+  color = "primary"
+)
+```
+
+```{r}
+#| content: valuebox
+#| title: "Respondents elsewhere"
+
+list(
+  value = 71,
+  icon = "globe",
+  color = "primary"
+)
+```
+
+## Row {height="500px"}
+
+```{r}
+#| title: "Member ratings by geographic segment"
+
+segment_long <- segments |>
+  pivot_longer(
+    cols = -Metric,
+    names_to = "Group",
+    values_to = "Rating"
+  ) |>
+  mutate(
+    Group = factor(
+      Group,
+      levels = c(
+        "Headquarters",
+        "Elsewhere"
+      ),
+      labels = c(
+        "Headquarters area (n = 57)",
+        "Elsewhere (n = 71)"
+      )
+    )
+  )
+
+plot_ly(
+  data = segment_long,
+  x = ~Metric,
+  y = ~Rating,
+  color = ~Group,
+  colors = c(
+    light_blue,
+    blue
+  ),
+  type = "bar",
+  text = ~sprintf("%.2f", Rating),
+  textposition = "outside",
+  hovertemplate = paste0(
+    "%{x}",
+    "<br>Mean rating: %{y:.2f}/5"
+  )
+) |>
+  layout(
+    barmode = "group",
+    bargap = 0.30,
+    bargroupgap = 0.10,
+    xaxis = list(
+      title = "",
+      automargin = TRUE,
+      categoryorder = "array",
+      categoryarray = segments$Metric
+    ),
+    yaxis = list(
+      title = "Mean rating (1–5)",
+      range = c(0, 5),
+      dtick = 1,
+      gridcolor = "#E5E7EB"
+    ),
+    legend = list(
+      orientation = "h",
+      x = 0,
+      y = -0.20
+    ),
+    margin = list(
+      l = 70,
+      r = 30,
+      t = 30,
+      b = 110
+    ),
+    font = list(
+      family = "Arial",
+      color = navy
+    ),
+    paper_bgcolor = "white",
+    plot_bgcolor = "white"
+  ) |>
+  configure_chart()
+```
+
+## Row {height="250px"}
+
+### Geographic comparison summary
+
+```{r}
+#| title: "Average ratings by member segment"
+
+knitr::kable(
+  segments,
+  digits = 2,
+  col.names = c(
+    "Performance metric",
+    "Headquarters area",
+    "Elsewhere"
+  )
+)
+```
+
+## Row {height="350px"}
+
+### Interpretation and limitations
+
+Members in the headquarters area report slightly higher employee performance ratings (**4.28**) compared with members elsewhere (**4.14**).
+
+Member needs satisfaction is nearly identical between the two geographic groups, with ratings of **3.60** and **3.59**, respectively.
+
+Savings rate perceptions are also similar, averaging **3.04** in the headquarters area and **3.09** elsewhere.
+
+These findings suggest relatively consistent perceptions across the two geographic segments. However, the differences are descriptive and have not been evaluated through statistical significance testing.
+
+Q38 is labeled "headquarter" in the dataset. The geographic interpretation follows the working analysis plan and should be verified against the original questionnaire.
+
+# Methodology
+
+## Row {height="300px"}
+
+### Research background
+
+The purpose of this dashboard is to demonstrate the application of marketing analytics and customer insights research to credit union member satisfaction, financial product awareness, employee performance, and geographic segmentation.
+
+This academic project uses Case 31 as an alternative to confidential MSDM Culminating Experience Project data.
+
+The dashboard translates statistical results into accessible and interactive visualizations that support managerial decision-making.
+
+## Row {height="400px"}
+
+### Data source and preparation
+
+| Dataset characteristic | Description          |
+|------------------------|----------------------|
+| Data source            | Case 31 SPSS survey  |
+| Survey records         | 128                  |
+| Original variables     | 34                   |
+| Analysis software      | R and RStudio        |
+| Visualization library  | Plotly               |
+| Dashboard framework    | Quarto               |
+| Data presentation      | Aggregate statistics |
+| Visualization type     | Interactive          |
+
+The original dataset was imported using the `haven` package. Data preparation and aggregation were performed using `dplyr` and `tidyr`.
+
+The dashboard contains aggregate analytical results rather than individual survey records.
+
+## Row {height="450px"}
+
+### Measurement and reliability
+
+**Employee performance**
+
+Employee performance was calculated as the mean of Q3–Q6, representing courtesy, helpfulness, professionalism, and availability.
+
+The calculated composite matched the existing employee performance variable exactly.
+
+| Reliability statistic          | Result |
+|--------------------------------|-------:|
+| Cronbach's alpha               |  0.866 |
+| Standardized alpha             |  0.869 |
+| Average inter-item correlation |  0.624 |
+| Composite mean                 |  4.205 |
+| Standard deviation             |  0.594 |
+
+The Cronbach's alpha indicates good internal consistency across the four employee performance items.
+
+**Savings rate perceptions**
+
+Q7 was reverse coded using the following transformation:
+
+$$\text{Savings Rate Score} = 6 - Q7$$
+
+Missing responses and no-opinion responses were excluded.
+
+## Row {height="350px"}
+
+### Analytical limitations
+
+- Q28 and Q29 are absent from the supplied dataset.
+
+- Response code 3 for Q13–Q26 is not labeled in the SPSS metadata.
+
+- Missing and non-substantive responses were excluded from relevant rating calculations.
+
+- Favorable ratings for Q30 and Q33 represent responses of 4 or 5 among valid responses.
+
+- Geographic comparisons are descriptive rather than inferential.
+
+- No causal relationships or statistical significance claims are presented.
+
+- Permission to publish the aggregate case results should be confirmed before public publication.
+
+## Row {height="400px"}
+
+### Technical implementation
+
+This dashboard was developed using:
+
+- R and RStudio
+- Quarto Dashboards
+- Plotly
+- dplyr
+- tidyr
+- haven
+- psych
+- knitr
+
+**Interactive visualizations**
+
+Native Plotly visualizations allow users to explore the analytical results through:
+
+- Interactive hover tooltips.
+- Responsive chart sizing.
+- Zooming and panning where supported.
+- Interactive legend filtering.
+- Chart image exports.
+- Resettable chart views.
+
+**Website compatibility**
+
+JavaScript dependencies are stored as separate resources rather than being embedded directly into the HTML document.
+
+The dashboard is designed for static website hosting platforms such as GitHub Pages.
+
+The dashboard demonstrates how statistical analysis, interactive data visualization, and marketing research can be integrated into a professional analytical reporting environment.

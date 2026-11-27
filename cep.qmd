@@ -1,0 +1,66 @@
+---
+title: "Marketing Analytics & Research"
+subtitle: "From data to actionable customer insights"
+toc: false
+---
+
+## MSDM Culminating Experience Project
+
+My Culminating Experience Project focuses on Salesforce CRM adoption, user engagement, and the identification of factors influencing technology adoption within an organization.
+
+The project demonstrates the application of marketing research, statistical analysis, and data-driven decision-making to organizational challenges.
+
+## Featured Analytics Dashboard
+
+### Case 31 \| Credit Union Customer Insights
+
+As an alternative to confidential Culminating Experience Project data, this interactive dashboard uses Case 31 survey results to demonstrate my analytical and data visualization capabilities.
+
+The analysis examines:
+
+- Employee performance and service quality
+- Member satisfaction and financial needs
+- Financial product awareness and usage
+- Competitive interest rate perceptions
+- Geographic customer segmentation
+- Measurement reliability
+
+::: callout-note
+## Dataset Overview
+
+- **128** survey respondents
+- **34** original variables
+- **14** financial products
+- **3** interactive visualizations
+- **4** dashboard sections
+:::
+
+[Explore the Interactive Dashboard](dashboard.html){.btn .btn-primary .btn-lg}
+
+## Technical Skills Demonstrated
+
+| Competency           | Tools and Methods                          |
+|----------------------|--------------------------------------------|
+| Data preparation     | R, haven, dplyr, tidyr                     |
+| Statistical analysis | Descriptive statistics, composite measures |
+| Reliability analysis | Cronbach's alpha, psych                    |
+| Data visualization   | Plotly                                     |
+| Analytical reporting | Quarto Dashboards                          |
+| Website development  | Quarto, HTML, CSS, SCSS                    |
+| Website publication  | GitHub Pages                               |
+
+## Business Applications
+
+The dashboard illustrates how marketing analytics can support:
+
+- Customer experience optimization
+- Financial product marketing
+- Customer segmentation
+- Competitive positioning
+- Evidence-based managerial decision-making
+
+## Data Privacy and Research Ethics
+
+The dashboard presents aggregate academic case results rather than individual survey records or confidential client information.
+
+The findings are descriptive and should not be interpreted as causal relationships or statistically significant differences.

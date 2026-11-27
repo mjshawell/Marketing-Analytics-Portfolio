@@ -1,0 +1,175 @@
+---
+title: "Professional Project Portfolio"
+subtitle: "Applied marketing analytics, research, and digital strategy"
+listing:
+  id: portfolio-projects
+  contents: projects
+  type: grid
+  grid-columns: 2
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  sort: "title asc"
+  fields: [title, description, categories]
+toc: true
+toc-depth: 2
+---
+
+## Introduction
+
+This portfolio showcases my academic and applied experience in marketing analytics, customer insights, digital marketing, and data-driven decision-making.
+
+Each project demonstrates the application of analytical tools, research methodologies, and marketing frameworks to business challenges.
+
+## Explore My Projects
+
+Browse the projects below to explore my experience across marketing research, data visualization, digital analytics, search engine optimization, and machine learning.
+
+Use the search, sorting, and category filtering features to discover projects relevant to your interests.
+
+::: {#portfolio-projects}
+:::
+
+## Understanding Quarto Listings
+
+### What are Quarto Listings?
+
+Quarto Listings provide an automated approach to organizing and displaying website content based on document metadata.
+
+Rather than manually updating a portfolio whenever a new project is completed, listings allow Quarto to dynamically generate a collection of project entries during the rendering process.
+
+This functionality is particularly useful for:
+
+- Professional portfolios
+- Academic research websites
+- Marketing analytics projects
+- Blogs and publications
+- Data science case studies
+- Project documentation
+
+### Types of Listings
+
+Quarto supports several listing formats depending on the intended presentation and audience.
+
+| Listing type | Description | Recommended application |
+|----|----|----|
+| Default | Vertically organized content | Blogs and articles |
+| Grid | Card-based visual presentation | Professional portfolios |
+| Table | Structured rows and columns | Research and project directories |
+
+This portfolio uses the grid format to create a structured and visually accessible presentation of professional projects.
+
+## Implementing Quarto Listings
+
+### Project Organization
+
+Each project is maintained as an individual Quarto document within a dedicated projects directory.
+
+``` text
+M10/
+├── _quarto.yml
+├── index.qmd
+├── cep.qmd
+├── dashboard.qmd
+├── customization.qmd
+├── listings.qmd
+├── theme.scss
+├── styles.css
+└── projects/
+    └── Individual project documents (.qmd)
+```
+
+This structure separates website navigation, visual customization, analytical dashboards, and individual project content.
+
+### Document Metadata
+
+Each project document contains a YAML header that defines its title, description, and relevant categories.
+
+For example:
+
+``` yaml
+---
+title: "Credit Union Customer Insights"
+description: "An interactive dashboard examining customer satisfaction and financial product awareness."
+categories:
+  - Marketing Analytics
+  - Customer Insights
+  - Data Visualization
+---
+```
+
+Quarto extracts this metadata and uses it to automatically populate the portfolio listing.
+
+### Listing Configuration
+
+The following YAML configuration demonstrates how a grid-based listing can be implemented.
+
+``` yaml
+listing:
+  id: portfolio-projects
+  contents: projects
+  type: grid
+  grid-columns: 2
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  sort: "title asc"
+  fields: [title, description, categories]
+```
+
+| Configuration  | Function                           |
+|----------------|------------------------------------|
+| `id`           | Identifies the listing placement   |
+| `contents`     | Specifies the source directory     |
+| `type`         | Determines the presentation format |
+| `grid-columns` | Sets the number of grid columns    |
+| `categories`   | Enables category-based navigation  |
+| `sort-ui`      | Enables interactive sorting        |
+| `filter-ui`    | Enables search functionality       |
+| `sort`         | Defines the initial sorting order  |
+| `fields`       | Determines the displayed metadata  |
+
+## Benefits for a Professional Portfolio
+
+### Automated Content Management
+
+New projects can be incorporated into the portfolio by adding individual Quarto documents to the projects directory and rendering the website.
+
+This reduces manual maintenance and supports long-term portfolio development.
+
+### Improved User Experience
+
+Category filtering, searching, and sorting allow recruiters, employers, and other visitors to quickly identify projects relevant to their interests.
+
+### Scalability
+
+As additional academic, professional, and independent projects are completed, the portfolio can expand without requiring substantial changes to the website structure.
+
+### Consistent Professional Branding
+
+Quarto Listings integrate with the website's CSS and SCSS stylesheets, allowing project cards to maintain a consistent visual identity across the portfolio.
+
+::: demo-card
+**Practical Application**
+
+This page demonstrates the implementation of automated content management through Quarto Listings. The project collection is generated from individual documents rather than manually constructed HTML cards.
+:::
+
+## Key Learning Outcomes
+
+Through the development of this portfolio, I demonstrated the ability to:
+
+- Configure automated Quarto Listings.
+- Organize website content using document metadata.
+- Implement grid-based project presentations.
+- Enable interactive searching, sorting, and filtering.
+- Integrate listings with custom CSS and SCSS.
+- Develop a scalable professional portfolio.
+- Present academic and analytical work to professional audiences.
+
+## Additional Resources
+
+- [Quarto Listings Documentation](https://quarto.org/docs/websites/website-listings.html)
+- [Quarto Website Documentation](https://quarto.org/docs/websites/)
+- [Quarto HTML Theming](https://quarto.org/docs/output-formats/html-themes.html)
+- [Quarto Dashboards](https://quarto.org/docs/dashboards/)

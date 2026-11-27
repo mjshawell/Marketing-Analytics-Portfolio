@@ -1,0 +1,239 @@
+
+/*-- scss:defaults --*/
+
+// ==========================================
+// 1. Portfolio Color Palette
+// ==========================================
+
+$primary: #142b42;
+$secondary: #245578;
+$success: #287d5b;
+$info: #86b6cf;
+$warning: #d4a72c;
+$danger: #b94a48;
+$light: #f4f6f9;
+$dark: #142b42;
+
+// ==========================================
+// 2. Global Appearance
+// ==========================================
+
+$body-bg: #ffffff;
+$body-color: #334155;
+$link-color: #245578;
+$link-hover-color: #142b42;
+
+// ==========================================
+// 3. Typography
+// ==========================================
+
+$font-family-sans-serif: "Source Sans Pro", Arial, sans-serif;
+$headings-font-weight: 700;
+$headings-color: $primary;
+$font-size-base: 1rem;
+$line-height-base: 1.65;
+
+// ==========================================
+// 4. Navigation Bar
+// ==========================================
+
+$navbar-bg: #142b42;
+$navbar-fg: #ffffff;
+$navbar-hl: #86b6cf;
+
+// ==========================================
+// 5. Buttons and Cards
+// ==========================================
+
+$border-radius: 0.5rem;
+$border-radius-lg: 0.75rem;
+$btn-font-weight: 600;
+$btn-padding-y: 0.65rem;
+$btn-padding-x: 1.25rem;
+$card-border-color: #dce3eb;
+$card-cap-bg: #f4f6f9;
+
+// ==========================================
+// 6. Tables
+// ==========================================
+
+$table-striped-bg: #f4f6f9;
+$table-border-color: #dce3eb;
+$table-hover-bg: #eaf1f7;
+
+
+/*-- scss:rules --*/
+
+// ==========================================
+// 7. Page Headings
+// ==========================================
+
+h1, h2, h3 {
+  color: $primary;
+  font-weight: 700;
+}
+
+h1 {
+  letter-spacing: -0.025em;
+}
+
+h2 {
+  margin-top: 2rem;
+  padding-bottom: 0.5rem;
+}
+
+h3 {
+  color: $secondary;
+}
+
+.quarto-title .subtitle {
+  color: #64748b;
+  font-weight: 400;
+}
+
+// ==========================================
+// 8. Navigation Styling
+// ==========================================
+
+.navbar {
+  box-shadow: 0 2px 8px rgba(20, 43, 66, 0.12);
+}
+
+.navbar-brand {
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+.navbar .nav-link {
+  transition: color 0.2s ease;
+}
+
+.navbar .nav-link:hover {
+  color: #86b6cf;
+}
+
+// ==========================================
+// 9. Professional Buttons
+// ==========================================
+
+.btn-primary {
+  background-color: $primary;
+  border-color: $primary;
+  color: #ffffff;
+  transition: all 0.2s ease;
+}
+
+.btn-primary:hover {
+  background-color: $secondary;
+  border-color: $secondary;
+  color: #ffffff;
+  box-shadow: 0 4px 12px rgba(20, 43, 66, 0.15);
+}
+
+// ==========================================
+// 10. Content Cards
+// ==========================================
+
+.card {
+  border-radius: 0.75rem;
+  border: 1px solid #dce3eb;
+  box-shadow: 0 3px 12px rgba(20, 43, 66, 0.06);
+}
+
+.card-header {
+  background-color: #f4f6f9;
+  color: $primary;
+  font-weight: 600;
+}
+
+// ==========================================
+// 11. Tables
+// ==========================================
+
+.table thead th {
+  background-color: $primary;
+  color: #ffffff;
+  font-weight: 600;
+  padding: 0.85rem;
+}
+
+.table tbody td {
+  padding: 0.75rem;
+}
+
+// ==========================================
+// 12. Callout Boxes
+// ==========================================
+
+.callout {
+  border-radius: 0.5rem;
+}
+
+.callout-note {
+  border-left-color: $secondary;
+}
+
+// ==========================================
+// 13. Portfolio Listings
+// ==========================================
+
+.listing-title {
+  color: $primary;
+  font-weight: 600;
+}
+
+.listing-description {
+  color: #475569;
+}
+
+.listing-category {
+  border-radius: 20px;
+  font-size: 0.75rem;
+  padding: 0.25rem 0.65rem;
+}
+
+// ==========================================
+// 14. Table of Contents
+// ==========================================
+
+#TOC {
+  font-size: 0.9rem;
+}
+
+#TOC .nav-link.active {
+  color: $primary;
+  font-weight: 600;
+}
+
+// ==========================================
+// 15. Footer
+// ==========================================
+
+.nav-footer {
+  background-color: #f4f6f9;
+  border-top: 1px solid #dce3eb;
+  color: #64748b;
+}
+
+// ==========================================
+// 16. Responsive Design
+// ==========================================
+
+@media (max-width: 768px) {
+
+  h1 {
+    font-size: 1.9rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+
+  .btn-lg {
+    font-size: 1rem;
+  }
+
+  .card {
+    margin-bottom: 1rem;
+  }
+}

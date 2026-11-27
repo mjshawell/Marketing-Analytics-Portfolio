@@ -1,0 +1,73 @@
+---
+title: "Mickyas Shawel"
+subtitle: "Digital Marketing | Marketing Analytics | Advertising Operations"
+toc: false
+---
+
+::::: columns
+::: {.column width="30%"}
+![](images/mickyas-headshot.jpg){width="194"}
+:::
+
+::: {.column width="70%"}
+## About Me
+
+I am a graduate student pursuing a Master of Science in Digital Marketing at California State Polytechnic University, Pomona, with a Bachelor of Science in Marketing Management.
+
+My professional interests lie at the intersection of marketing strategy, data analytics, advertising technology, and consumer behavior. I leverage analytical tools and research methodologies to translate complex data into actionable marketing insights.
+:::
+:::::
+
+## Education
+
+### California State Polytechnic University, Pomona
+
+- **M.S. Digital Marketing** — In Progress
+- **B.S. Marketing Management**
+
+## Career Aspirations
+
+My career objective is to pursue opportunities in marketing analytics, advertising operations, programmatic advertising, and marketing science.
+
+My long-term goal is to contribute to marketing education as a university instructor, combining professional industry experience with academic research.
+
+## Technical and Professional Skills
+
+| Category               | Skills                                         |
+|------------------------|------------------------------------------------|
+| Data Analytics         | R, SQL, Excel, BigQuery                        |
+| Data Visualization     | Tableau, Looker Studio, Quarto                 |
+| Digital Analytics      | Google Analytics 4, Google Search Console      |
+| Paid Media             | Google Ads, Meta Ads, Programmatic Advertising |
+| Advertising Operations | Campaign Measurement, CM360 Fundamentals       |
+| SEO                    | SEMrush, Keyword Research, Technical SEO       |
+| Marketing Research     | Survey Design, Regression, Consumer Behavior   |
+| Development            | HTML, CSS, SCSS, GitHub, RStudio               |
+
+## Professional Certifications
+
+- Google Analytics 4 Certification
+- Google Ads Display Certification
+- SEMrush Keyword Research
+- SEMrush Technical SEO
+- Excel Pivot Tables
+
+## Featured Work
+
+::: {.callout-note appearance="simple" icon="false"}
+### Marketing Analytics and Research
+
+Explore my [CEP Research Dashboard](cep.qmd) to learn about the application of marketing analytics to customer relationship management and technology adoption.
+:::
+
+::: {.callout-note appearance="simple" icon="false"}
+### Professional Portfolio
+
+Explore my [Portfolio Projects](listings.qmd) to discover selected projects in digital marketing, analytics, and research.
+:::
+
+::: {.callout-note appearance="simple" icon="false"}
+### Website Development
+
+Learn how this website was developed and customized using [CSS and SCSS](customization.qmd).
+:::

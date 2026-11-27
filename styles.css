@@ -1,0 +1,401 @@
+
+/* ==========================================
+   PROFESSIONAL PORTFOLIO STYLESHEET
+   ========================================== */
+
+
+/* 1. Reusable CSS Variables */
+
+:root {
+  --portfolio-navy: #142b42;
+  --portfolio-blue: #245578;
+  --portfolio-accent: #86b6cf;
+  --portfolio-light: #f4f6f9;
+  --portfolio-white: #ffffff;
+  --portfolio-text: #334155;
+  --portfolio-border: #dce3eb;
+  --portfolio-muted: #64748b;
+}
+
+
+/* 2. Page Layout and Spacing */
+
+.quarto-title-block {
+  margin-bottom: 2rem;
+}
+
+#quarto-content {
+  line-height: 1.65;
+}
+
+main.content {
+  padding-bottom: 3rem;
+}
+
+section {
+  margin-bottom: 1.5rem;
+}
+
+p {
+  margin-bottom: 1rem;
+}
+
+
+/* 3. Responsive Images */
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.profile-photo {
+  width: 100%;
+  max-width: 280px;
+  border-radius: 12px;
+  border: 4px solid var(--portfolio-white);
+  box-shadow: 0 6px 20px rgba(20, 43, 66, 0.15);
+}
+
+
+/* 4. Demonstration Cards */
+
+.demo-card {
+  background-color: var(--portfolio-light);
+  border: 1px solid var(--portfolio-border);
+  border-left: 4px solid var(--portfolio-blue);
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.demo-card h3 {
+  color: var(--portfolio-navy);
+  margin-top: 0;
+}
+
+
+/* 5. Portfolio Project Cards */
+
+.project-card {
+  background-color: var(--portfolio-white);
+  border: 1px solid var(--portfolio-border);
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 3px 12px rgba(20, 43, 66, 0.06);
+  transition: transform 0.2s ease,
+              box-shadow 0.2s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 20px rgba(20, 43, 66, 0.12);
+}
+
+
+/* 6. Professional Skill Tags */
+
+.skill-tag {
+  display: inline-block;
+  background-color: #eaf1f7;
+  color: var(--portfolio-navy);
+  border: 1px solid var(--portfolio-border);
+  border-radius: 20px;
+  padding: 0.35rem 0.85rem;
+  margin: 0.2rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+
+/* 7. Buttons */
+
+.btn {
+  border-radius: 6px;
+  text-decoration: none;
+  transition: background-color 0.2s ease,
+              box-shadow 0.2s ease;
+}
+
+.btn-primary {
+  background-color: var(--portfolio-navy);
+  border-color: var(--portfolio-navy);
+  color: var(--portfolio-white);
+}
+
+.btn-primary:hover {
+  background-color: var(--portfolio-blue);
+  border-color: var(--portfolio-blue);
+  color: var(--portfolio-white);
+  box-shadow: 0 4px 12px rgba(20, 43, 66, 0.15);
+}
+
+
+/* 8. Tables */
+
+table {
+  width: 100%;
+  margin-bottom: 1.5rem;
+}
+
+.table th {
+  vertical-align: middle;
+}
+
+.table td {
+  vertical-align: middle;
+}
+
+.table tbody tr:hover {
+  background-color: #eaf1f7;
+}
+
+
+/* 9. Portfolio Listings */
+
+.quarto-listing .listing-title {
+  font-weight: 600;
+  color: var(--portfolio-navy);
+}
+
+.quarto-listing .listing-description {
+  color: var(--portfolio-text);
+  line-height: 1.6;
+}
+
+.quarto-listing .listing-category {
+  background-color: var(--portfolio-light);
+  border: 1px solid var(--portfolio-border);
+  border-radius: 20px;
+  color: var(--portfolio-blue);
+  padding: 0.25rem 0.65rem;
+}
+
+.quarto-listing .listing-category:hover {
+  background-color: #eaf1f7;
+}
+
+
+/* 10. Callout Boxes */
+
+.callout {
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+  border-radius: 8px;
+}
+
+.callout-note {
+  border-left-color: var(--portfolio-blue);
+}
+
+
+/* 11. Dashboard KPI Value Boxes */
+
+.bslib-value-box {
+  border-radius: 10px;
+  box-shadow: 0 3px 10px rgba(20, 43, 66, 0.10);
+}
+
+.bslib-value-box.bg-primary {
+  background-color: var(--portfolio-navy) !important;
+  color: var(--portfolio-white) !important;
+}
+
+.bslib-value-box .value-box-value {
+  font-weight: 700;
+}
+
+
+/* 12. Dashboard Cards */
+
+.quarto-dashboard .card {
+  border: 1px solid var(--portfolio-border);
+  border-radius: 10px;
+  box-shadow: 0 3px 10px rgba(20, 43, 66, 0.06);
+}
+
+.quarto-dashboard .card-header {
+  background-color: var(--portfolio-light);
+  color: var(--portfolio-navy);
+  font-weight: 600;
+  padding: 0.85rem 1rem;
+}
+
+
+/* 13. Plotly Visualizations */
+
+.plotly.html-widget {
+  max-width: 100%;
+}
+
+.modebar {
+  opacity: 0.65;
+  transition: opacity 0.2s ease;
+}
+
+.modebar:hover {
+  opacity: 1;
+}
+
+
+/* 14. Code Examples */
+
+pre.sourceCode {
+  border: 1px solid var(--portfolio-border);
+  border-radius: 8px;
+  padding: 1rem;
+  background-color: var(--portfolio-light);
+}
+
+code {
+  color: var(--portfolio-blue);
+}
+
+
+/* 15. Accessibility */
+
+a:focus-visible,
+button:focus-visible {
+  outline: 3px solid var(--portfolio-accent);
+  outline-offset: 3px;
+}
+
+
+/* 16. Responsive Mobile Design */
+
+@media (max-width: 768px) {
+
+  .profile-photo {
+    max-width: 220px;
+    display: block;
+    margin: 0 auto 1.5rem auto;
+  }
+
+  .demo-card,
+  .project-card {
+    padding: 1rem;
+  }
+
+  .btn-lg {
+    font-size: 1rem;
+  }
+
+  .table {
+    font-size: 0.85rem;
+  }
+
+  .quarto-title-block {
+    margin-bottom: 1.5rem;
+  }
+}
+
+
+/* 17. Reduced Motion Accessibility */
+
+@media (prefers-reduced-motion: reduce) {
+
+  .project-card,
+  .btn,
+  .modebar {
+    transition: none;
+  }
+
+  .project-card:hover {
+    transform: none;
+  }
+}
+
+
+/* ==========================================
+   18. Dashboard Visual Refinements
+   ========================================== */
+
+/* Consistent KPI colors */
+
+.quarto-dashboard .value-box,
+.quarto-dashboard .bslib-value-box {
+  background-color: #245578 !important;
+  color: #ffffff !important;
+  border: none;
+  border-radius: 12px;
+}
+
+/* KPI typography */
+
+.quarto-dashboard .value-box-title {
+  font-weight: 600;
+}
+
+.quarto-dashboard .value-box-value {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+/* Dashboard card headings */
+
+.quarto-dashboard .card-header {
+  background-color: #f4f6f9;
+  color: #142b42;
+  font-weight: 700;
+  border-bottom: 1px solid #dce3eb;
+}
+
+/* Dashboard scrollbar appearance */
+
+.quarto-dashboard .card-body {
+  scrollbar-width: thin;
+  scrollbar-color: #cbd5e1 transparent;
+}
+
+/* Dashboard navigation */
+
+.quarto-dashboard .nav-link.active {
+  background-color: #245578;
+  color: #ffffff;
+}
+
+
+/* ==========================================
+   19. Final Dashboard Corrections
+   ========================================== */
+
+/* KPI background and text */
+
+.quarto-dashboard .value-box {
+  --bs-primary-rgb: 36, 85, 120;
+  --bs-primary: #245578;
+}
+
+.quarto-dashboard .value-box .card-body {
+  background-color: #245578 !important;
+  color: #ffffff !important;
+  border-radius: 12px;
+}
+
+/* Correct table header visibility */
+
+.quarto-dashboard table thead th {
+  background-color: #142b42 !important;
+  color: #ffffff !important;
+  font-weight: 600;
+  padding: 0.85rem;
+}
+
+/* Improve dashboard table readability */
+
+.quarto-dashboard table tbody td {
+  padding: 0.75rem;
+  vertical-align: middle;
+}
+
+.quarto-dashboard table tbody tr:nth-child(even) {
+  background-color: #f4f6f9;
+}
+
+/* Improve written findings */
+
+.quarto-dashboard .card-body li {
+  margin-bottom: 0.5rem;
+  line-height: 1.6;
+}
+

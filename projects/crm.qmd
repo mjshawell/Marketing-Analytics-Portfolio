@@ -1,0 +1,186 @@
+
+---
+title: "Salesforce CRM Adoption Research"
+description: "Graduate-level marketing research examining Salesforce adoption, user engagement, technology acceptance, and organizational adoption barriers."
+categories:
+  - Marketing Research
+  - Marketing Analytics
+  - CRM
+  - Consumer Behavior
+toc: true
+toc-depth: 2
+---
+
+## Project Overview
+
+The Salesforce CRM Adoption Research project is part of my Master of Science in Digital Marketing Culminating Experience Project at California State Polytechnic University, Pomona.
+
+The research examines Salesforce adoption, user engagement, and factors that may influence the effective utilization of customer relationship management technology within an organization.
+
+The project integrates marketing research, behavioral theory, and data analytics to support evidence-based organizational decision-making.
+
+::: {.callout-note}
+## Research Status
+
+This project is currently in progress. Confidential organizational information, proprietary datasets, and research findings will not be publicly disclosed without appropriate authorization.
+:::
+
+## Business Problem
+
+Customer relationship management platforms provide organizations with opportunities to improve customer relationships, operational efficiency, and sales performance.
+
+However, the effectiveness of CRM technology depends on consistent adoption, meaningful user engagement, and integration into organizational workflows.
+
+Understanding adoption patterns and potential barriers can help organizations identify opportunities to improve technology utilization and employee engagement.
+
+## Project Objectives
+
+| Objective | Description |
+|---|---|
+| PO1 | Measure current Salesforce adoption. |
+| PO2 | Identify adoption barriers and drivers. |
+| PO3 | Segment users and develop targeted engagement strategies. |
+| PO4 | Implement and evaluate an engagement campaign. |
+
+These objectives represent the proposed project direction and may be refined as the research progresses.
+
+## Research Focus and Individual Contribution
+
+My primary analytical focus is identifying factors associated with Salesforce adoption and user engagement.
+
+My research responsibilities include:
+
+- Reviewing academic literature on CRM adoption.
+- Evaluating theoretical frameworks for technology acceptance.
+- Identifying potential adoption barriers and drivers.
+- Developing analytical objectives and research frameworks.
+- Evaluating measurement and data requirements.
+- Supporting the interpretation of CRM usage patterns.
+- Translating research insights into actionable recommendations.
+
+## Theoretical Research Framework
+
+### Technology Acceptance Model (TAM)
+
+The Technology Acceptance Model examines how perceived usefulness and perceived ease of use influence attitudes toward technology and behavioral intentions.
+
+Within the context of Salesforce adoption, TAM provides a framework for investigating whether users perceive the platform as beneficial to their responsibilities and sufficiently accessible to incorporate into their workflows.
+
+### Unified Theory of Acceptance and Use of Technology (UTAUT)
+
+UTAUT extends technology acceptance research by examining four central constructs:
+
+- Performance expectancy
+- Effort expectancy
+- Social influence
+- Facilitating conditions
+
+These constructs provide a broader perspective for understanding how individual perceptions and organizational conditions may influence Salesforce adoption.
+
+### Framework Comparison
+
+| Dimension | TAM | UTAUT |
+|---|---|---|
+| Primary focus | Individual technology acceptance | Individual and organizational adoption |
+| Key constructs | Usefulness and ease of use | Performance, effort, social influence, and facilitating conditions |
+| Strength | Parsimonious and interpretable | Broader explanatory framework |
+| Limitation | Limited organizational context | Greater measurement complexity |
+| CRM application | Understanding user perceptions | Examining adoption within organizational environments |
+
+These frameworks represent theoretical approaches for investigating adoption. Their empirical evaluation depends on the availability of appropriate measurements.
+
+## Analytical Methodology
+
+The proposed analytical workflow consists of the following stages:
+
+### 1. Research and Literature Review
+
+Evaluate established academic research concerning CRM adoption, technology acceptance, employee engagement, and organizational behavior.
+
+### 2. Data Preparation
+
+Prepare available Salesforce CRM records for analysis through data cleaning, variable assessment, missing-value evaluation, and appropriate aggregation.
+
+### 3. Exploratory Data Analysis
+
+Examine observable patterns in platform activity, user engagement, and CRM utilization.
+
+### 4. Adoption and Engagement Analysis
+
+Develop appropriate behavioral indicators to assess differences in Salesforce usage and identify potential engagement patterns.
+
+### 5. User Segmentation
+
+Explore opportunities to segment users based on observable engagement characteristics and available organizational information.
+
+### 6. Managerial Recommendations
+
+Translate supported analytical findings into practical recommendations for improving CRM engagement and technology utilization.
+
+## Potential Analytical Indicators
+
+| Indicator | Business application |
+|---|---|
+| Login frequency | Assess platform engagement |
+| User activity | Examine utilization patterns |
+| Opportunity activity | Evaluate observable sales workflow engagement |
+| Record updates | Assess CRM maintenance behavior |
+| Engagement consistency | Identify recurring usage patterns |
+| User segmentation | Support targeted engagement strategies |
+
+These indicators are proposed measures rather than reported research findings.
+
+## Technical Skills Demonstrated
+
+| Tool or competency | Application |
+|---|---|
+| Salesforce CRM | Customer relationship management and behavioral data |
+| R Programming | Statistical analysis and data preparation |
+| RStudio | Reproducible analytical workflows |
+| Quarto | Research documentation and reporting |
+| Zotero | Academic literature management |
+| GitHub | Version control and collaborative research |
+| Marketing Research | Research design and analytical frameworks |
+| Data Visualization | Communication of analytical insights |
+
+## Managerial Applications
+
+The research may support organizational initiatives related to:
+
+- CRM adoption and utilization
+- Employee engagement
+- Technology onboarding and training
+- Sales workflow optimization
+- Targeted engagement campaigns
+- Organizational change management
+- Data-driven managerial decision-making
+
+## Academic and Professional Development
+
+This project demonstrates the integration of marketing research, technology acceptance theory, business analytics, and strategic decision-making.
+
+It also contributes to my professional development in marketing analytics, customer insights, marketing technology, and data-driven business strategy.
+
+## Research Limitations and Confidentiality
+
+The project remains under development.
+
+Behavioral CRM records may demonstrate observable usage patterns but do not independently establish users' attitudes, motivations, or perceived barriers.
+
+Theoretical constructs requiring direct measurement should not be treated as empirically validated without appropriate supporting data.
+
+Confidential datasets, organizational identifiers, and proprietary findings are excluded from this public portfolio.
+
+## Related Analytics Demonstration
+
+To demonstrate my analytical and dashboard development capabilities without disclosing confidential CEP information, I developed an interactive customer insights dashboard using an alternative academic dataset.
+
+[Explore the Case 31 Analytics Dashboard](../dashboard.qmd){.btn .btn-primary}
+
+[View the CEP Research Portal](../cep.qmd){.btn .btn-outline-primary}
+
+## Academic References
+
+Davis, F. D. (1989). Perceived usefulness, perceived ease of use, and user acceptance of information technology. *MIS Quarterly, 13*(3), 319–340.
+
+Venkatesh, V., Morris, M. G., Davis, G. B., & Davis, F. D. (2003). User acceptance of information technology: Toward a unified view. *MIS Quarterly, 27*(3), 425–478.

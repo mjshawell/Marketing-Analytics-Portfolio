@@ -1,0 +1,439 @@
+
+---
+title: "Designing a Professional Quarto Website"
+subtitle: "Website customization with CSS, SCSS, HTML, and Bootstrap"
+toc: true
+toc-depth: 3
+---
+
+## Introduction
+
+A professional website requires more than informative content. Its visual appearance, organization, accessibility, and usability influence how effectively visitors engage with the information presented.
+
+This portfolio demonstrates how Cascading Style Sheets (CSS) and Sassy CSS (SCSS) can extend Quarto's default website functionality to create a consistent professional identity.
+
+## Understanding CSS and SCSS
+
+### What is CSS?
+
+Cascading Style Sheets (CSS) is a stylesheet language used to control the presentation of HTML documents. CSS allows developers to customize typography, colors, spacing, borders, positioning, and responsive layouts without changing the underlying content.
+
+### What is SCSS?
+
+SCSS is an extension of CSS that introduces additional programming features, including variables, nesting, reusable rules, and mixins.
+
+Quarto compiles SCSS into standard CSS and integrates custom themes with the Bootstrap framework.
+
+### Comparing CSS and SCSS
+
+| Feature | CSS | SCSS |
+|---|---|---|
+| Browser interpretation | Direct | Compiled into CSS |
+| Variables | Custom properties | Sass variables |
+| Nesting | Supported in modern CSS | Supported |
+| Mixins | Not native | Supported |
+| Bootstrap customization | CSS overrides | Theme-level customization |
+| Portfolio application | Component styling | Global design system |
+
+## Establishing a Professional Visual Identity
+
+A consistent visual identity helps communicate professionalism and improves the visitor experience.
+
+This portfolio uses a navy-and-blue color palette to establish visual consistency across navigation, headings, tables, buttons, and analytical visualizations.
+
+### Portfolio Color Palette
+
+```{=html}
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:16px;margin:24px 0;">
+
+<div>
+<div style="background:#142b42;height:85px;border-radius:8px;"></div>
+<strong>Primary Navy</strong><br>
+#142B42
+</div>
+
+<div>
+<div style="background:#245578;height:85px;border-radius:8px;"></div>
+<strong>Secondary Blue</strong><br>
+#245578
+</div>
+
+<div>
+<div style="background:#86b6cf;height:85px;border-radius:8px;"></div>
+<strong>Accent Blue</strong><br>
+#86B6CF
+</div>
+
+<div>
+<div style="background:#f4f6f9;height:85px;border-radius:8px;border:1px solid #dce3eb;"></div>
+<strong>Light Background</strong><br>
+#F4F6F9
+</div>
+
+<div>
+<div style="background:#334155;height:85px;border-radius:8px;"></div>
+<strong>Body Text</strong><br>
+#334155
+</div>
+
+</div>
+```
+
+## Customizing Quarto with SCSS
+
+### Global Theme Variables
+
+The `theme.scss` file establishes the global visual identity of the portfolio.
+
+```scss
+/*-- scss:defaults --*/
+
+$primary: #142b42;
+$secondary: #245578;
+$info: #86b6cf;
+
+$body-bg: #ffffff;
+$body-color: #334155;
+
+$navbar-bg: #142b42;
+$navbar-fg: #ffffff;
+
+$headings-font-weight: 700;
+$border-radius: 0.5rem;
+```
+
+These variables customize Bootstrap's default appearance and establish consistent styling throughout the website.
+
+### Custom Styling Rules
+
+The SCSS rules section defines additional styling for specific website elements.
+
+```scss
+/*-- scss:rules --*/
+
+h1, h2, h3 {
+  color: $primary;
+  font-weight: 700;
+}
+
+.navbar {
+  box-shadow: 0 2px 8px rgba(20, 43, 66, 0.12);
+}
+
+.card {
+  border-radius: 0.75rem;
+  border: 1px solid #dce3eb;
+}
+```
+
+Separating theme variables from styling rules makes the website easier to maintain and customize.
+
+## Extending Website Components with CSS
+
+The `styles.css` file provides additional control over individual website components.
+
+### Reusable CSS Variables
+
+CSS custom properties allow developers to reuse design values throughout a stylesheet.
+
+```css
+:root {
+  --portfolio-navy: #142b42;
+  --portfolio-blue: #245578;
+  --portfolio-accent: #86b6cf;
+  --portfolio-light: #f4f6f9;
+  --portfolio-text: #334155;
+}
+```
+
+Using reusable variables reduces repetitive code and improves design consistency.
+
+### Custom Content Cards
+
+The following CSS class creates a styled content container.
+
+```css
+.demo-card {
+  background-color: var(--portfolio-light);
+  border: 1px solid #dce3eb;
+  border-left: 4px solid var(--portfolio-blue);
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin: 1.5rem 0;
+}
+```
+
+#### Live Demonstration
+
+::: {.demo-card}
+
+### Marketing Analytics
+
+Marketing analytics combines statistical analysis, customer research, and digital measurement to support evidence-based business decisions.
+
+This card demonstrates how custom CSS can improve the visual presentation of professional content.
+
+:::
+
+### Professional Skill Tags
+
+Reusable CSS classes can also create visual labels for professional competencies.
+
+```css
+.skill-tag {
+  display: inline-block;
+  background-color: #eaf1f7;
+  color: #142b42;
+  border-radius: 20px;
+  padding: 0.35rem 0.85rem;
+  font-weight: 600;
+}
+```
+
+#### Live Demonstration
+
+[R]{.skill-tag}
+[SQL]{.skill-tag}
+[Google Analytics 4]{.skill-tag}
+[Tableau]{.skill-tag}
+[Marketing Research]{.skill-tag}
+[SEO]{.skill-tag}
+[Paid Media]{.skill-tag}
+[Quarto]{.skill-tag}
+[Plotly]{.skill-tag}
+[Advertising Operations]{.skill-tag}
+
+### Interactive Buttons
+
+CSS pseudo-classes allow website elements to respond to user interactions.
+
+```css
+.btn-primary:hover {
+  background-color: #245578;
+  border-color: #245578;
+  color: #ffffff;
+}
+```
+
+#### Live Demonstration
+
+[Explore the Analytics Dashboard](dashboard.html){.btn .btn-primary}
+
+[Explore Portfolio Projects](listings.html){.btn .btn-outline-primary}
+
+Hovering over the primary button demonstrates how CSS can provide visual feedback during user interaction.
+
+## Integrating HTML with Quarto
+
+Quarto supports Markdown alongside native HTML. This allows developers to create customized layouts and components beyond standard Markdown formatting.
+
+For example, an HTML container can use a CSS class defined in an external stylesheet.
+
+```html
+<div class="demo-card">
+  <h3>Customer Insights</h3>
+  <p>Transforming customer data into actionable insights.</p>
+</div>
+```
+
+Quarto also supports fenced divisions, which provide a Markdown-friendly alternative to HTML containers.
+
+```markdown
+::: {.demo-card}
+### Customer Insights
+
+Transforming customer data into actionable insights.
+:::
+```
+
+Both approaches allow developers to apply reusable styling to website content.
+
+## Responsive Website Design
+
+Responsive design allows websites to adapt to different screen sizes, including desktop computers, tablets, and mobile devices.
+
+CSS media queries apply styling rules based on device or viewport characteristics.
+
+```css
+@media (max-width: 768px) {
+
+  .profile-photo {
+    max-width: 220px;
+    display: block;
+    margin: 0 auto 1.5rem auto;
+  }
+
+  .demo-card {
+    padding: 1rem;
+  }
+
+  .btn-lg {
+    font-size: 1rem;
+  }
+}
+```
+
+These rules help maintain readability and appropriate spacing on smaller screens.
+
+Responsive design is particularly important for professional portfolio websites because recruiters and employers may access them from different devices.
+
+## Accessibility and User Experience
+
+Website customization should improve usability without creating unnecessary barriers for visitors.
+
+The portfolio stylesheet incorporates visible keyboard focus indicators and reduced-motion preferences.
+
+### Keyboard Navigation
+
+```css
+a:focus-visible,
+button:focus-visible {
+  outline: 3px solid #86b6cf;
+  outline-offset: 3px;
+}
+```
+
+Visible focus indicators help keyboard users identify interactive elements.
+
+### Reduced Motion
+
+```css
+@media (prefers-reduced-motion: reduce) {
+
+  .project-card,
+  .btn,
+  .modebar {
+    transition: none;
+  }
+
+  .project-card:hover {
+    transform: none;
+  }
+}
+```
+
+This media query respects visitors who prefer reduced visual motion.
+
+Additional accessibility considerations include:
+
+- Appropriate color contrast
+- Descriptive alternative text for images
+- Logical heading structures
+- Readable typography
+- Meaningful navigation labels
+- Accessible data visualizations
+
+## Applying CSS and SCSS to Quarto Dashboards
+
+The Case 31 Customer Insights Dashboard demonstrates how website customization can improve the presentation of analytical results.
+
+The dashboard incorporates:
+
+- Customized navigation colors
+- Rounded KPI value boxes
+- Consistent card headings
+- Professional typography
+- Styled analytical tables
+- Interactive Plotly visualizations
+- Scrollable content sections
+
+### Dashboard Styling Example
+
+```css
+.quarto-dashboard .card-header {
+  background-color: #f4f6f9;
+  color: #142b42;
+  font-weight: 700;
+  border-bottom: 1px solid #dce3eb;
+}
+```
+
+### Live Analytical Presentation
+
+::: {.demo-card}
+
+### Case 31 — Customer Insights
+
+| Performance indicator | Result |
+|---|---:|
+| Survey respondents | 128 |
+| Employee performance | 4.21 / 5 |
+| Member needs | 3.59 / 5 |
+| Savings rate rating | 3.07 / 5 |
+| Favorable needs rating | 59.4% |
+| Cronbach's alpha | 0.866 |
+
+These aggregate results demonstrate how customized analytical presentations can communicate research findings to business decision-makers.
+
+[View Interactive Dashboard](dashboard.html){.btn .btn-primary}
+
+:::
+
+## Integrating Stylesheets with Quarto
+
+### Website Configuration
+
+The `_quarto.yml` configuration file connects the website to its custom SCSS theme and CSS stylesheet.
+
+```yaml
+format:
+  html:
+    theme: [cosmo, theme.scss]
+    css: styles.css
+```
+
+### Dashboard Configuration
+
+The dashboard uses its own format configuration to apply the same design system.
+
+```yaml
+format:
+  dashboard:
+    theme: [cosmo, theme.scss]
+    css: styles.css
+    scrolling: true
+    embed-resources: false
+```
+
+Using both configurations helps maintain a consistent visual identity between standard website pages and interactive dashboards.
+
+## Practical Applications Across This Portfolio
+
+| Website component | Customization technique | Intended benefit |
+|---|---|---|
+| Navigation | SCSS theme variables | Consistent branding |
+| Homepage | Responsive CSS | Professional presentation |
+| Typography | Bootstrap theme customization | Readability |
+| Project cards | Reusable CSS classes | Content organization |
+| Skill tags | Custom CSS classes | Competency identification |
+| Dashboard | SCSS and CSS | Analytical communication |
+| Tables | CSS selectors | Improved readability |
+| Buttons | Hover pseudo-classes | Interactive feedback |
+| Listings | Customized typography and categories | Project discovery |
+| Accessibility | Focus indicators and media queries | Inclusive design |
+
+## Key Learning Outcomes
+
+Developing this portfolio demonstrates my understanding of how Quarto, HTML, CSS, SCSS, and Bootstrap work together to create professional websites.
+
+Through this project, I have developed practical experience in:
+
+- Establishing a reusable visual design system.
+- Customizing Bootstrap through SCSS variables.
+- Creating reusable website components.
+- Integrating HTML and Markdown.
+- Applying responsive design principles.
+- Presenting analytical findings through interactive dashboards.
+- Incorporating accessibility considerations.
+
+These capabilities support my professional interests in marketing analytics, digital marketing, advertising operations, and data-driven business communication.
+
+## Additional Resources
+
+- [Quarto Website Documentation](https://quarto.org/docs/websites/)
+- [Quarto HTML Themes](https://quarto.org/docs/output-formats/html-themes.html)
+- [Quarto Dashboards](https://quarto.org/docs/dashboards/)
+- [Bootstrap Documentation](https://getbootstrap.com/docs/)
+- [MDN CSS Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Sass Documentation](https://sass-lang.com/documentation/)
+

@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+    - "projects/*.qmd"
+    - "!submission/"
+    - "!data/"
+
+website:
+  title: "Mickyas Shawel | Portfolio"
+  search: true
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+
+      - href: cep.qmd
+        text: CEP Dashboard
+
+      - href: customization.qmd
+        text: CSS / SCSS
+
+      - href: listings.qmd
+        text: Listings
+
+  page-footer:
+    left: "Mickyas Shawel | Professional Portfolio"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme: [cosmo, theme.scss]
+    css: styles.css
+    toc: true
+    toc-depth: 2
+    embed-resources: true
+
+execute:
+  warning: false
+  message: false

@@ -1,0 +1,87 @@
+
+---
+title: "Credit Union Customer Insights"
+description: "Interactive customer insights dashboard examining employee performance, financial product awareness, member satisfaction, and geographic segmentation."
+categories:
+  - Marketing Analytics
+  - Customer Insights
+  - Data Visualization
+  - R Programming
+toc: true
+---
+
+## Project Overview
+
+This project demonstrates the application of marketing research and data visualization to understand credit union member perceptions, financial product awareness, and service performance.
+
+The analysis uses Case 31 survey data as an academic alternative to confidential MSDM Culminating Experience Project data.
+
+## Business Objective
+
+Identify opportunities to improve member satisfaction, strengthen competitive positioning, and increase financial product engagement through data-driven decision-making.
+
+## Dataset Overview
+
+| Characteristic | Description |
+|---|---|
+| Survey respondents | 128 |
+| Original variables | 34 |
+| Financial products | 14 |
+| Interactive visualizations | 3 |
+| Dashboard sections | 4 |
+
+## Analytical Methodology
+
+- Descriptive statistical analysis
+- Survey data preparation
+- Reverse coding
+- Composite measurement
+- Reliability analysis using Cronbach's alpha
+- Financial product awareness analysis
+- Geographic segmentation
+- Interactive data visualization
+
+## Key Findings
+
+- Overall employee performance averaged **4.21 out of 5**.
+- Courtesy received an average rating of **4.35 out of 5**.
+- Helpfulness received an average rating of **4.31 out of 5**.
+- **59.4%** of respondents provided favorable member-needs ratings.
+- Employee performance demonstrated good internal consistency, with a Cronbach's alpha of **0.866**.
+- Master credit card had the highest reported product usage at **43.8%**.
+
+## Managerial Recommendations
+
+### Improve Service Performance
+
+Investigate opportunities to improve employee availability and professionalism while maintaining strong courtesy and helpfulness ratings.
+
+### Strengthen Product Engagement
+
+Identify barriers preventing members who are aware of financial products from using them.
+
+### Evaluate Competitive Positioning
+
+Investigate member perceptions of savings rates and compare these perceptions with relevant competitive offerings.
+
+## Technical Skills Demonstrated
+
+| Tool | Application |
+|---|---|
+| R | Statistical analysis |
+| RStudio | Analytical development |
+| Haven | SPSS data import |
+| Tidyverse | Data preparation |
+| Plotly | Interactive visualization |
+| Quarto | Dashboard development |
+| CSS and SCSS | Professional presentation |
+
+## Project Deliverable
+
+[Explore the Interactive Dashboard](../dashboard.qmd){.btn .btn-primary}
+
+## Limitations
+
+The findings represent descriptive results from an academic survey dataset. Geographic differences should not be interpreted as statistically significant without additional testing.
+
+Only aggregate results are presented. Public distribution remains subject to permission to share the academic case results.

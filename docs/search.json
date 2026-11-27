@@ -1,0 +1,737 @@
+[
+  {
+    "objectID": "projects/seo.html",
+    "href": "projects/seo.html",
+    "title": "Wellness Ranch | On-Page SEO Strategy",
+    "section": "",
+    "text": "The Wellness Ranch On-Page SEO Strategy project demonstrates the application of search engine optimization, digital marketing research, and website performance analysis to a nonprofit organization.\nWellness Ranch Equine Assisted Therapy is a nonprofit organization based in Rancho Cucamonga, California, providing equine-assisted therapeutic services.\nThe project focused on developing a comprehensive SEO strategy to improve website discoverability, strengthen organic search visibility, and connect prospective clients with relevant therapeutic resources.\n\n\n\n\n\n\nNoteIndividual Contribution\n\n\n\nI served as the On-Page SEO Team Lead, contributing to keyword research, website auditing, metadata optimization, internal linking, structured data planning, and strategic performance recommendations."
+  },
+  {
+    "objectID": "projects/seo.html#project-overview",
+    "href": "projects/seo.html#project-overview",
+    "title": "Wellness Ranch | On-Page SEO Strategy",
+    "section": "",
+    "text": "The Wellness Ranch On-Page SEO Strategy project demonstrates the application of search engine optimization, digital marketing research, and website performance analysis to a nonprofit organization.\nWellness Ranch Equine Assisted Therapy is a nonprofit organization based in Rancho Cucamonga, California, providing equine-assisted therapeutic services.\nThe project focused on developing a comprehensive SEO strategy to improve website discoverability, strengthen organic search visibility, and connect prospective clients with relevant therapeutic resources.\n\n\n\n\n\n\nNoteIndividual Contribution\n\n\n\nI served as the On-Page SEO Team Lead, contributing to keyword research, website auditing, metadata optimization, internal linking, structured data planning, and strategic performance recommendations."
+  },
+  {
+    "objectID": "projects/seo.html#business-problem",
+    "href": "projects/seo.html#business-problem",
+    "title": "Wellness Ranch | On-Page SEO Strategy",
+    "section": "Business Problem",
+    "text": "Business Problem\nNonprofit organizations frequently face challenges competing for online visibility due to limited marketing resources, technical website constraints, and competition from established service providers.\nFor Wellness Ranch, improving organic search visibility represents an opportunity to increase awareness of equine-assisted therapy and connect with individuals searching for mental health and therapeutic services.\nThe project addressed the following strategic challenges:\n\nLimited non-branded keyword visibility.\nWebsite crawlability and indexing concerns.\nOpportunities to improve metadata and content structure.\nLimited organic search measurement capabilities.\nOpportunities to strengthen internal linking.\nWebsite accessibility and technical performance."
+  },
+  {
+    "objectID": "projects/seo.html#project-objectives",
+    "href": "projects/seo.html#project-objectives",
+    "title": "Wellness Ranch | On-Page SEO Strategy",
+    "section": "Project Objectives",
+    "text": "Project Objectives\n\n\n\n\n\n\n\nObjective\nDescription\n\n\n\n\nOrganic visibility\nImprove discoverability for relevant therapeutic search queries.\n\n\nKeyword targeting\nIdentify relevant keywords aligned with user search intent.\n\n\nOn-page optimization\nDevelop optimized titles, descriptions, headings, and website content.\n\n\nTechnical SEO\nIdentify crawlability, indexing, mobile usability, and performance concerns.\n\n\nWebsite accessibility\nImprove the accessibility and usability of website content.\n\n\nPerformance measurement\nEstablish measurable SEO performance indicators."
+  },
+  {
+    "objectID": "projects/seo.html#research-and-analytical-tools",
+    "href": "projects/seo.html#research-and-analytical-tools",
+    "title": "Wellness Ranch | On-Page SEO Strategy",
+    "section": "Research and Analytical Tools",
+    "text": "Research and Analytical Tools\nThe project incorporated digital marketing platforms and analytical tools to support website evaluation and strategic planning.\n\n\n\n\n\n\n\nPlatform\nApplication\n\n\n\n\nSEMrush\nKeyword research, competitive analysis, and website auditing.\n\n\nGoogle Search Console\nProposed organic search and indexing measurement.\n\n\nGoogle Analytics 4\nProposed website engagement and conversion measurement.\n\n\nUbersuggest\nSupplemental keyword research.\n\n\nAnswerThePublic\nSearch intent and question-based content research.\n\n\nWAVE\nWebsite accessibility evaluation.\n\n\nWix\nWebsite content management and SEO implementation planning.\n\n\nGoogle Keyword Planner\nSupplemental keyword opportunity identification."
+  },
+  {
+    "objectID": "projects/seo.html#seo-strategy-framework",
+    "href": "projects/seo.html#seo-strategy-framework",
+    "title": "Wellness Ranch | On-Page SEO Strategy",
+    "section": "SEO Strategy Framework",
+    "text": "SEO Strategy Framework\nThe project followed a structured optimization framework connecting research, website improvements, and performance measurement.\n\n\n\n\n\nflowchart TD\n    A[Website and SEO Audit] --&gt; B[Keyword Research]\n    B --&gt; C[Search Intent Analysis]\n    C --&gt; D[Keyword Mapping]\n    D --&gt; E[On-Page Optimization]\n    E --&gt; F[Technical SEO and Accessibility]\n    F --&gt; G[Internal Linking and Structured Data]\n    G --&gt; H[Performance Measurement]\n    H --&gt; I[Continuous Optimization]\n    I --&gt; A"
+  },
+  {
+    "objectID": "projects/seo.html#keyword-research-and-search-intent",
+    "href": "projects/seo.html#keyword-research-and-search-intent",
+    "title": "Wellness Ranch | On-Page SEO Strategy",
+    "section": "Keyword Research and Search Intent",
+    "text": "Keyword Research and Search Intent\nKeyword research focused on identifying relevant search queries associated with equine-assisted therapy, mental health services, and local therapeutic resources.\nKeywords were evaluated according to:\n\nRelevance to organizational services.\nSearch volume.\nKeyword difficulty.\nGeographic relevance.\nSearch intent.\nPotential contribution to website engagement.\n\n\nSearch Intent Classification\n\n\n\n\n\n\n\n\nSearch intent\nUser objective\nIllustrative keyword\n\n\n\n\nInformational\nLearn about a therapeutic service.\nWhat is equine-assisted therapy?\n\n\nNavigational\nLocate a specific organization.\nWellness Ranch Therapy\n\n\nCommercial\nEvaluate available therapeutic options.\nEquine therapy near me\n\n\nTransactional\nContact or request a service.\nSchedule equine therapy consultation\n\n\nLocal\nIdentify nearby service providers.\nEquine therapy Rancho Cucamonga\n\n\n\nThe keyword examples illustrate the targeting strategy rather than verified keyword rankings.\n\n\nKeyword Mapping\nKeyword mapping connects relevant search queries with appropriate website pages.\n\n\n\nWebsite page\nIllustrative keyword focus\n\n\n\n\nHomepage\nEquine-assisted therapy\n\n\nAbout page\nWellness Ranch equine therapy\n\n\nServices page\nEquine-assisted psychotherapy\n\n\nFAQ page\nBenefits of equine-assisted therapy\n\n\nContact page\nEquine therapy Rancho Cucamonga\n\n\nBlog content\nHow equine-assisted therapy works\n\n\n\nThis approach helps establish topical relevance while reducing unnecessary competition between website pages."
+  },
+  {
+    "objectID": "projects/seo.html#on-page-seo-optimization",
+    "href": "projects/seo.html#on-page-seo-optimization",
+    "title": "Wellness Ranch | On-Page SEO Strategy",
+    "section": "On-Page SEO Optimization",
+    "text": "On-Page SEO Optimization\nOn-page SEO focuses on improving individual website pages to strengthen their relevance, accessibility, and search engine discoverability.\n\nOptimization Components\n\n\n\n\n\n\n\nComponent\nStrategic application\n\n\n\n\nTitle tags\nDevelop descriptive, keyword-aligned page titles.\n\n\nMeta descriptions\nCommunicate page relevance and encourage search engagement.\n\n\nH1 headings\nEstablish a clear primary topic for each page.\n\n\nH2 and H3 headings\nOrganize supporting content logically.\n\n\nImage alt text\nImprove accessibility and communicate image context.\n\n\nURL structure\nMaintain descriptive and understandable page addresses.\n\n\nInternal links\nConnect related content and support website navigation.\n\n\nCalls to action\nGuide visitors toward relevant next steps.\n\n\n\n\n\nMetadata Optimization Example\n\nIllustrative optimized title\nEquine-Assisted Therapy in Rancho Cucamonga | Wellness Ranch\nIllustrative meta description\nDiscover equine-assisted therapy at Wellness Ranch in Rancho Cucamonga. Learn about therapeutic services and explore available resources.\n\nThe example demonstrates how metadata can communicate service relevance, geographic context, and organizational identity."
+  },
+  {
+    "objectID": "projects/seo.html#technical-seo",
+    "href": "projects/seo.html#technical-seo",
+    "title": "Wellness Ranch | On-Page SEO Strategy",
+    "section": "Technical SEO",
+    "text": "Technical SEO\nTechnical SEO focuses on improving the ability of search engines to discover, crawl, understand, and index website content.\nThe technical SEO evaluation addressed the following areas.\n\n\n\n\n\n\n\nTechnical component\nEvaluation focus\n\n\n\n\nCrawlability\nIdentify barriers preventing search engines from accessing pages.\n\n\nIndexability\nEvaluate whether relevant pages can appear in search results.\n\n\nXML sitemap\nSupport search engine discovery of important website pages.\n\n\nMobile usability\nImprove the experience across mobile devices.\n\n\nCore Web Vitals\nEvaluate loading performance, responsiveness, and visual stability.\n\n\nBroken links\nIdentify links leading to unavailable resources.\n\n\nImage optimization\nReduce unnecessary image file sizes.\n\n\nHTTPS\nSupport secure website communication.\n\n\n\nTechnical recommendations were developed to support future implementation and monitoring."
+  },
+  {
+    "objectID": "projects/seo.html#internal-linking-strategy",
+    "href": "projects/seo.html#internal-linking-strategy",
+    "title": "Wellness Ranch | On-Page SEO Strategy",
+    "section": "Internal Linking Strategy",
+    "text": "Internal Linking Strategy\nInternal linking helps users navigate related content while supporting search engines in understanding website structure.\n\n\n\n\n\nflowchart TD\n    A[Homepage] --&gt; B[About Wellness Ranch]\n    A --&gt; C[Therapeutic Services]\n    A --&gt; D[Frequently Asked Questions]\n    A --&gt; E[Educational Resources]\n    A --&gt; F[Contact Page]\n    B --&gt; C\n    C --&gt; D\n    C --&gt; F\n    D --&gt; F\n    E --&gt; C\n    E --&gt; D\n\n\n\n\n\n\nA structured internal linking strategy can support:\n\nWebsite navigation.\nContent discoverability.\nRelationships between relevant topics.\nVisitor engagement.\nAccess to important service information.\nConversion opportunities."
+  },
+  {
+    "objectID": "projects/seo.html#structured-data-and-schema-markup",
+    "href": "projects/seo.html#structured-data-and-schema-markup",
+    "title": "Wellness Ranch | On-Page SEO Strategy",
+    "section": "Structured Data and Schema Markup",
+    "text": "Structured Data and Schema Markup\nStructured data provides machine-readable information that helps search engines understand website entities and content.\nThe project considered several schema types.\n\n\n\n\n\n\n\nSchema type\nPotential application\n\n\n\n\nOrganization\nCommunicate organizational identity.\n\n\nLocalBusiness\nDescribe relevant local business information where appropriate.\n\n\nFAQPage\nIdentify frequently asked questions and answers.\n\n\nBreadcrumbList\nCommunicate website navigation hierarchy.\n\n\n\n\nJSON-LD Example\nThe following example demonstrates a simplified organizational schema structure.\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Organization\",\n  \"name\": \"Wellness Ranch Equine Assisted Therapy\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"addressLocality\": \"Rancho Cucamonga\",\n    \"addressRegion\": \"CA\",\n    \"addressCountry\": \"US\"\n  }\n}\nStructured data can improve machine-readable content interpretation. However, implementation does not guarantee higher rankings or enhanced search result appearances."
+  },
+  {
+    "objectID": "projects/seo.html#website-accessibility-and-user-experience",
+    "href": "projects/seo.html#website-accessibility-and-user-experience",
+    "title": "Wellness Ranch | On-Page SEO Strategy",
+    "section": "Website Accessibility and User Experience",
+    "text": "Website Accessibility and User Experience\nWebsite accessibility is an important component of an effective digital marketing strategy, particularly for organizations serving individuals seeking therapeutic support.\nAccessibility considerations included:\n\nDescriptive image alternative text.\nAppropriate heading hierarchy.\nReadable typography.\nSufficient color contrast.\nDescriptive link text.\nMobile-friendly navigation.\nClear calls to action.\nAccessible website content.\n\nThese considerations support a more inclusive and effective website experience."
+  },
+  {
+    "objectID": "projects/seo.html#seo-performance-measurement",
+    "href": "projects/seo.html#seo-performance-measurement",
+    "title": "Wellness Ranch | On-Page SEO Strategy",
+    "section": "SEO Performance Measurement",
+    "text": "SEO Performance Measurement\nA successful SEO strategy requires measurable objectives and ongoing performance evaluation.\n\nProposed Key Performance Indicators\n\n\n\n\n\n\n\n\nKPI\nProposed target\nTime frame\n\n\n\n\nOrganic website traffic\nIncrease by 20–30%\nSix months\n\n\nTarget keyword rankings\nImprove by 10–20% using an agreed ranking measure\n90 days\n\n\nEducational content\nPublish two optimized articles\nMonthly\n\n\nLocal search visibility\nImprove relevant local search presence\nOngoing\n\n\nWebsite performance\nTarget Lighthouse performance score above 85\nFollowing optimization\n\n\nOrganic engagement\nImprove engagement with relevant service pages\nOngoing\n\n\nOrganic conversions\nEstablish baseline and monitor improvement\nOngoing\n\n\n\n\n\n\n\n\n\nImportantPerformance Measurement Disclaimer\n\n\n\nThese indicators represent proposed strategic targets rather than verified campaign outcomes. Actual performance should be evaluated using validated baseline measurements and post-implementation analytics."
+  },
+  {
+    "objectID": "projects/seo.html#seo-implementation-roadmap",
+    "href": "projects/seo.html#seo-implementation-roadmap",
+    "title": "Wellness Ranch | On-Page SEO Strategy",
+    "section": "SEO Implementation Roadmap",
+    "text": "SEO Implementation Roadmap\n\n\n\n\n\ngantt\n    title Proposed SEO Implementation Roadmap\n    dateFormat YYYY-MM-DD\n    axisFormat %b %d\n\n    section Research\n    Website audit             :a1, 2027-01-01, 14d\n    Keyword research          :a2, after a1, 14d\n\n    section Optimization\n    Metadata and headings     :b1, after a2, 14d\n    Internal linking          :b2, after a2, 14d\n    Technical improvements    :b3, after b1, 21d\n\n    section Content\n    Content development       :c1, after a2, 35d\n\n    section Measurement\n    Performance monitoring    :d1, after b3, 30d\n    Strategy refinement       :d2, after d1, 14d\n\n\n\n\n\n\nThe roadmap illustrates a potential implementation sequence. Dates are illustrative and do not represent an approved organizational schedule."
+  },
+  {
+    "objectID": "projects/seo.html#technical-skills-demonstrated",
+    "href": "projects/seo.html#technical-skills-demonstrated",
+    "title": "Wellness Ranch | On-Page SEO Strategy",
+    "section": "Technical Skills Demonstrated",
+    "text": "Technical Skills Demonstrated\n\n\n\n\n\n\n\nSkill area\nApplication\n\n\n\n\nSearch engine optimization\nOn-page and technical SEO strategy.\n\n\nKeyword research\nKeyword identification and prioritization.\n\n\nMarketing analytics\nPerformance measurement and KPI development.\n\n\nContent strategy\nSearch intent and content alignment.\n\n\nWebsite auditing\nIdentification of technical and structural concerns.\n\n\nStructured data\nJSON-LD and schema markup planning.\n\n\nAccessibility\nWebsite usability and accessibility evaluation.\n\n\nProject leadership\nCoordination of on-page SEO deliverables.\n\n\nStrategic communication\nTranslation of technical findings into recommendations."
+  },
+  {
+    "objectID": "projects/seo.html#managerial-applications",
+    "href": "projects/seo.html#managerial-applications",
+    "title": "Wellness Ranch | On-Page SEO Strategy",
+    "section": "Managerial Applications",
+    "text": "Managerial Applications\nThe project demonstrates how SEO research can support organizational decision-making.\n\nImproving Organic Discoverability\nRelevant keyword targeting and optimized website content can help prospective clients discover therapeutic resources through organic search.\n\n\nSupporting Resource Allocation\nWebsite audits help decision-makers prioritize technical improvements according to their potential impact and implementation requirements.\n\n\nStrengthening Content Strategy\nSearch intent analysis supports the development of educational content aligned with audience needs and common questions.\n\n\nEstablishing Accountability\nPerformance indicators provide a framework for evaluating whether implemented SEO recommendations contribute to organizational objectives."
+  },
+  {
+    "objectID": "projects/seo.html#professional-relevance",
+    "href": "projects/seo.html#professional-relevance",
+    "title": "Wellness Ranch | On-Page SEO Strategy",
+    "section": "Professional Relevance",
+    "text": "Professional Relevance\nThis project strengthened my ability to integrate digital marketing strategy, website analytics, technical SEO, and consumer search behavior.\nThe experience is directly relevant to professional opportunities in:\n\nSearch engine optimization.\nSearch engine marketing.\nDigital marketing analytics.\nMarketing strategy.\nWebsite performance optimization.\nContent marketing.\nMarketing measurement.\n\nThe project also demonstrates my ability to translate technical website findings into actionable recommendations that support organizational objectives."
+  },
+  {
+    "objectID": "projects/seo.html#project-limitations",
+    "href": "projects/seo.html#project-limitations",
+    "title": "Wellness Ranch | On-Page SEO Strategy",
+    "section": "Project Limitations",
+    "text": "Project Limitations\nThe project primarily focused on research, website evaluation, strategic planning, and optimization recommendations.\nSeveral limitations should be considered:\n\nProposed SEO targets are not verified performance outcomes.\nSearch engine rankings and keyword metrics change over time.\nSome recommendations depend on website administration access.\nSearch Console and analytics measurement require appropriate configuration.\nOrganic search performance depends on multiple external factors.\nImplementation effectiveness requires ongoing monitoring.\n\nNo unsupported claims regarding traffic growth, ranking improvements, or conversion increases are presented."
+  },
+  {
+    "objectID": "projects/seo.html#related-portfolio-projects",
+    "href": "projects/seo.html#related-portfolio-projects",
+    "title": "Wellness Ranch | On-Page SEO Strategy",
+    "section": "Related Portfolio Projects",
+    "text": "Related Portfolio Projects\nExplore additional projects demonstrating my experience in marketing research, analytics, and digital marketing.\n\nGoogle Analytics 4 Micro Application\nWebsite performance measurement, acquisition analysis, and digital marketing insights.\nExplore GA4 Project\n\n\nCredit Union Customer Insights\nInteractive marketing analytics dashboard examining customer satisfaction, financial product awareness, and geographic segmentation.\nExplore Customer Insights Project\n\n\nSalesforce CRM Adoption Research\nGraduate-level marketing research examining technology adoption and user engagement.\nExplore CRM Research Project"
+  },
+  {
+    "objectID": "projects/seo.html#additional-resources",
+    "href": "projects/seo.html#additional-resources",
+    "title": "Wellness Ranch | On-Page SEO Strategy",
+    "section": "Additional Resources",
+    "text": "Additional Resources\n\nGoogle Search Central\nGoogle SEO Starter Guide\nSEMrush\nGoogle Search Console\nGoogle PageSpeed Insights\nSchema.org\nWAVE Accessibility Evaluation Tool\n\n\nReturn to Professional Project Portfolio"
+  },
+  {
+    "objectID": "projects/ga4.html",
+    "href": "projects/ga4.html",
+    "title": "Google Analytics 4 Micro Application",
+    "section": "",
+    "text": "The Google Analytics 4 Micro Application project demonstrates the practical application of digital analytics to website performance measurement, consumer behavior analysis, and marketing decision-making.\nUsing the Google Analytics 4 Demo Account, this academic project explores how digital marketing professionals can transform website activity and behavioral data into actionable business insights.\nThe project emphasizes analytical interpretation, performance measurement, and the relationship between marketing activities and business objectives."
+  },
+  {
+    "objectID": "projects/ga4.html#project-overview",
+    "href": "projects/ga4.html#project-overview",
+    "title": "Google Analytics 4 Micro Application",
+    "section": "",
+    "text": "The Google Analytics 4 Micro Application project demonstrates the practical application of digital analytics to website performance measurement, consumer behavior analysis, and marketing decision-making.\nUsing the Google Analytics 4 Demo Account, this academic project explores how digital marketing professionals can transform website activity and behavioral data into actionable business insights.\nThe project emphasizes analytical interpretation, performance measurement, and the relationship between marketing activities and business objectives."
+  },
+  {
+    "objectID": "projects/ga4.html#business-problem",
+    "href": "projects/ga4.html#business-problem",
+    "title": "Google Analytics 4 Micro Application",
+    "section": "Business Problem",
+    "text": "Business Problem\nOrganizations invest in multiple digital marketing channels to attract potential customers, generate engagement, and drive conversions.\nHowever, understanding which marketing channels contribute to business performance requires an effective measurement framework.\nGoogle Analytics 4 provides organizations with the ability to examine customer interactions, evaluate acquisition channels, and identify opportunities to improve digital marketing effectiveness."
+  },
+  {
+    "objectID": "projects/ga4.html#project-objectives",
+    "href": "projects/ga4.html#project-objectives",
+    "title": "Google Analytics 4 Micro Application",
+    "section": "Project Objectives",
+    "text": "Project Objectives\n\n\n\n\n\n\n\nObjective\nDescription\n\n\n\n\nAcquisition Analysis\nUnderstand how users discover and access a website.\n\n\nEngagement Analysis\nEvaluate how users interact with digital content.\n\n\nPerformance Measurement\nIdentify relevant marketing performance indicators.\n\n\nCustomer Journey Analysis\nUnderstand behavioral patterns across digital touchpoints.\n\n\nMarketing Optimization\nTranslate analytical insights into potential marketing improvements."
+  },
+  {
+    "objectID": "projects/ga4.html#data-source",
+    "href": "projects/ga4.html#data-source",
+    "title": "Google Analytics 4 Micro Application",
+    "section": "Data Source",
+    "text": "Data Source\nThe project uses the Google Analytics 4 Demo Account, which provides access to real-world digital analytics reporting for educational purposes.\n\n\n\nCharacteristic\nDescription\n\n\n\n\nAnalytics platform\nGoogle Analytics 4\n\n\nData environment\nGA4 Demo Account\n\n\nMeasurement framework\nEvent-based analytics\n\n\nAnalysis type\nDescriptive and exploratory\n\n\nBusiness application\nDigital marketing performance\n\n\nProject type\nGraduate-level academic application\n\n\n\nExplore the Google Analytics Demo Account"
+  },
+  {
+    "objectID": "projects/ga4.html#google-analytics-4-measurement-framework",
+    "href": "projects/ga4.html#google-analytics-4-measurement-framework",
+    "title": "Google Analytics 4 Micro Application",
+    "section": "Google Analytics 4 Measurement Framework",
+    "text": "Google Analytics 4 Measurement Framework\n\nEvent-Based Measurement\nUnlike traditional session-based analytics models, Google Analytics 4 uses an event-based measurement framework.\nWebsite and application interactions are captured as events, allowing marketers to examine user behavior across digital environments.\nExamples of measurable events include:\n\nPage views\nSession starts\nUser engagement\nProduct views\nAdd-to-cart interactions\nPurchases\nForm submissions\n\nEvents can be designated as key events when they represent actions important to business objectives.\n\n\nUser and Session Dimensions\nGA4 distinguishes between user-scoped, session-scoped, and event-scoped information.\nUnderstanding these distinctions is important when interpreting acquisition and marketing performance reports.\n\n\n\n\n\n\n\nDimension\nAnalytical application\n\n\n\n\nFirst user source\nIdentifies the source associated with initial user acquisition.\n\n\nSession source\nIdentifies the source associated with a session.\n\n\nSession medium\nDescribes the marketing medium associated with a session.\n\n\nDefault channel group\nOrganizes traffic into standardized marketing channels.\n\n\nEvent name\nIdentifies a specific recorded interaction."
+  },
+  {
+    "objectID": "projects/ga4.html#acquisition-analysis",
+    "href": "projects/ga4.html#acquisition-analysis",
+    "title": "Google Analytics 4 Micro Application",
+    "section": "Acquisition Analysis",
+    "text": "Acquisition Analysis\n\nUser Acquisition\nUser acquisition reporting examines how users initially discover a website or application.\nThis information can support the evaluation of marketing channels responsible for attracting new audiences.\n\n\nTraffic Acquisition\nTraffic acquisition reporting examines the sources and channels associated with website sessions.\nRelevant marketing channels include:\n\nOrganic Search\nPaid Search\nDirect\nReferral\nOrganic Social\nPaid Social\nEmail\nDisplay\n\nComparing acquisition channels can help marketers identify differences in traffic volume, engagement, and key-event performance.\n\n\nUser Acquisition versus Traffic Acquisition\n\n\n\n\n\n\n\n\nCharacteristic\nUser Acquisition\nTraffic Acquisition\n\n\n\n\nPrimary scope\nUser\nSession\n\n\nMain purpose\nUnderstand initial acquisition\nUnderstand session acquisition\n\n\nBusiness application\nAudience growth\nChannel performance\n\n\nExample dimension\nFirst user source\nSession source"
+  },
+  {
+    "objectID": "projects/ga4.html#engagement-and-customer-behavior",
+    "href": "projects/ga4.html#engagement-and-customer-behavior",
+    "title": "Google Analytics 4 Micro Application",
+    "section": "Engagement and Customer Behavior",
+    "text": "Engagement and Customer Behavior\nEngagement reporting provides insights into how visitors interact with digital content.\nUnderstanding engagement allows marketers to move beyond traffic volume and evaluate the quality of website interactions.\nRelevant analytical considerations include:\n\nEngaged sessions\nEngagement rate\nAverage engagement time\nEvent frequency\nPage and screen performance\nKey-event completion\n\nThese indicators can support the identification of content optimization opportunities and potential barriers within the customer journey."
+  },
+  {
+    "objectID": "projects/ga4.html#key-performance-indicators",
+    "href": "projects/ga4.html#key-performance-indicators",
+    "title": "Google Analytics 4 Micro Application",
+    "section": "Key Performance Indicators",
+    "text": "Key Performance Indicators\n\n\n\n\n\n\n\nKPI\nBusiness application\n\n\n\n\nActive users\nMeasure audience activity.\n\n\nNew users\nEvaluate audience acquisition.\n\n\nSessions\nMeasure website visit volume.\n\n\nEngaged sessions\nEvaluate meaningful website interactions.\n\n\nEngagement rate\nAssess the proportion of engaged sessions.\n\n\nAverage engagement time\nUnderstand the duration of active engagement.\n\n\nEvent count\nMeasure recorded digital interactions.\n\n\nKey events\nEvaluate important business actions.\n\n\nSession key event rate\nAssess the proportion of sessions containing a key event.\n\n\nTotal revenue\nEvaluate recorded revenue performance."
+  },
+  {
+    "objectID": "projects/ga4.html#marketing-analytics-workflow",
+    "href": "projects/ga4.html#marketing-analytics-workflow",
+    "title": "Google Analytics 4 Micro Application",
+    "section": "Marketing Analytics Workflow",
+    "text": "Marketing Analytics Workflow\nThe following framework illustrates how digital analytics can support marketing decision-making.\n\n\n\n\n\nflowchart TD\n    A[Business Objectives] --&gt; B[Measurement Strategy]\n    B --&gt; C[GA4 Data Collection]\n    C --&gt; D[Acquisition Analysis]\n    C --&gt; E[Engagement Analysis]\n    C --&gt; F[Key Event Analysis]\n    D --&gt; G[Marketing Insights]\n    E --&gt; G\n    F --&gt; G\n    G --&gt; H[Strategic Recommendations]\n    H --&gt; I[Performance Monitoring]\n    I --&gt; B\n\n\n\n\n\n\nThe workflow emphasizes continuous measurement, interpretation, optimization, and performance evaluation."
+  },
+  {
+    "objectID": "projects/ga4.html#managerial-applications",
+    "href": "projects/ga4.html#managerial-applications",
+    "title": "Google Analytics 4 Micro Application",
+    "section": "Managerial Applications",
+    "text": "Managerial Applications\n\nMarketing Channel Optimization\nAcquisition and engagement metrics can help marketers evaluate which channels attract relevant audiences and generate meaningful interactions.\n\n\nWebsite Experience Optimization\nBehavioral reporting can identify pages or customer journey stages that warrant additional investigation.\n\n\nCampaign Performance Measurement\nCampaign parameters and acquisition reporting can support the evaluation of digital marketing initiatives.\n\n\nMarketing Budget Allocation\nPerformance measurement can inform resource allocation decisions when combined with advertising costs, revenue, attribution considerations, and business objectives."
+  },
+  {
+    "objectID": "projects/ga4.html#technical-skills-demonstrated",
+    "href": "projects/ga4.html#technical-skills-demonstrated",
+    "title": "Google Analytics 4 Micro Application",
+    "section": "Technical Skills Demonstrated",
+    "text": "Technical Skills Demonstrated\n\n\n\nTool or competency\nApplication\n\n\n\n\nGoogle Analytics 4\nDigital analytics and reporting\n\n\nAcquisition Reporting\nMarketing channel evaluation\n\n\nEvent-Based Analytics\nBehavioral measurement\n\n\nKPI Development\nMarketing performance evaluation\n\n\nMarketing Attribution\nUnderstanding channel contributions\n\n\nData Interpretation\nTranslating metrics into business insights\n\n\nQuarto\nProfessional analytical reporting\n\n\nMarketing Strategy\nData-driven recommendations"
+  },
+  {
+    "objectID": "projects/ga4.html#professional-relevance",
+    "href": "projects/ga4.html#professional-relevance",
+    "title": "Google Analytics 4 Micro Application",
+    "section": "Professional Relevance",
+    "text": "Professional Relevance\nThis project contributes to my professional development in digital marketing analytics, advertising operations, paid media, and marketing performance measurement.\nThe ability to interpret GA4 reports is particularly relevant to roles involving:\n\nMarketing analytics\nAdvertising operations\nProgrammatic advertising\nPaid media management\nSearch engine marketing\nDigital marketing strategy\nMarketing science"
+  },
+  {
+    "objectID": "projects/ga4.html#project-limitations",
+    "href": "projects/ga4.html#project-limitations",
+    "title": "Google Analytics 4 Micro Application",
+    "section": "Project Limitations",
+    "text": "Project Limitations\nThis project uses an educational analytics environment rather than a proprietary client account.\nThe portfolio entry summarizes the analytical framework and reporting capabilities explored during the academic application.\nSpecific campaign performance figures, revenue results, and statistical conclusions are not presented without verified supporting evidence."
+  },
+  {
+    "objectID": "projects/ga4.html#related-portfolio-projects",
+    "href": "projects/ga4.html#related-portfolio-projects",
+    "title": "Google Analytics 4 Micro Application",
+    "section": "Related Portfolio Projects",
+    "text": "Related Portfolio Projects\nExplore the Credit Union Customer Insights Dashboard\nReturn to the Project Portfolio"
+  },
+  {
+    "objectID": "projects/ga4.html#additional-resources",
+    "href": "projects/ga4.html#additional-resources",
+    "title": "Google Analytics 4 Micro Application",
+    "section": "Additional Resources",
+    "text": "Additional Resources\n\nGoogle Analytics\nGoogle Analytics Help Center\nGoogle Analytics Demo Account\nGoogle Skillshop\nQuarto Documentation"
+  },
+  {
+    "objectID": "projects/case31.html",
+    "href": "projects/case31.html",
+    "title": "Credit Union Customer Insights",
+    "section": "",
+    "text": "This project demonstrates the application of marketing research and data visualization to understand credit union member perceptions, financial product awareness, and service performance.\nThe analysis uses Case 31 survey data as an academic alternative to confidential MSDM Culminating Experience Project data."
+  },
+  {
+    "objectID": "projects/case31.html#project-overview",
+    "href": "projects/case31.html#project-overview",
+    "title": "Credit Union Customer Insights",
+    "section": "",
+    "text": "This project demonstrates the application of marketing research and data visualization to understand credit union member perceptions, financial product awareness, and service performance.\nThe analysis uses Case 31 survey data as an academic alternative to confidential MSDM Culminating Experience Project data."
+  },
+  {
+    "objectID": "projects/case31.html#business-objective",
+    "href": "projects/case31.html#business-objective",
+    "title": "Credit Union Customer Insights",
+    "section": "Business Objective",
+    "text": "Business Objective\nIdentify opportunities to improve member satisfaction, strengthen competitive positioning, and increase financial product engagement through data-driven decision-making."
+  },
+  {
+    "objectID": "projects/case31.html#dataset-overview",
+    "href": "projects/case31.html#dataset-overview",
+    "title": "Credit Union Customer Insights",
+    "section": "Dataset Overview",
+    "text": "Dataset Overview\n\n\n\nCharacteristic\nDescription\n\n\n\n\nSurvey respondents\n128\n\n\nOriginal variables\n34\n\n\nFinancial products\n14\n\n\nInteractive visualizations\n3\n\n\nDashboard sections\n4"
+  },
+  {
+    "objectID": "projects/case31.html#analytical-methodology",
+    "href": "projects/case31.html#analytical-methodology",
+    "title": "Credit Union Customer Insights",
+    "section": "Analytical Methodology",
+    "text": "Analytical Methodology\n\nDescriptive statistical analysis\nSurvey data preparation\nReverse coding\nComposite measurement\nReliability analysis using Cronbach’s alpha\nFinancial product awareness analysis\nGeographic segmentation\nInteractive data visualization"
+  },
+  {
+    "objectID": "projects/case31.html#key-findings",
+    "href": "projects/case31.html#key-findings",
+    "title": "Credit Union Customer Insights",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nOverall employee performance averaged 4.21 out of 5.\nCourtesy received an average rating of 4.35 out of 5.\nHelpfulness received an average rating of 4.31 out of 5.\n59.4% of respondents provided favorable member-needs ratings.\nEmployee performance demonstrated good internal consistency, with a Cronbach’s alpha of 0.866.\nMaster credit card had the highest reported product usage at 43.8%."
+  },
+  {
+    "objectID": "projects/case31.html#managerial-recommendations",
+    "href": "projects/case31.html#managerial-recommendations",
+    "title": "Credit Union Customer Insights",
+    "section": "Managerial Recommendations",
+    "text": "Managerial Recommendations\n\nImprove Service Performance\nInvestigate opportunities to improve employee availability and professionalism while maintaining strong courtesy and helpfulness ratings.\n\n\nStrengthen Product Engagement\nIdentify barriers preventing members who are aware of financial products from using them.\n\n\nEvaluate Competitive Positioning\nInvestigate member perceptions of savings rates and compare these perceptions with relevant competitive offerings."
+  },
+  {
+    "objectID": "projects/case31.html#technical-skills-demonstrated",
+    "href": "projects/case31.html#technical-skills-demonstrated",
+    "title": "Credit Union Customer Insights",
+    "section": "Technical Skills Demonstrated",
+    "text": "Technical Skills Demonstrated\n\n\n\nTool\nApplication\n\n\n\n\nR\nStatistical analysis\n\n\nRStudio\nAnalytical development\n\n\nHaven\nSPSS data import\n\n\nTidyverse\nData preparation\n\n\nPlotly\nInteractive visualization\n\n\nQuarto\nDashboard development\n\n\nCSS and SCSS\nProfessional presentation"
+  },
+  {
+    "objectID": "projects/case31.html#project-deliverable",
+    "href": "projects/case31.html#project-deliverable",
+    "title": "Credit Union Customer Insights",
+    "section": "Project Deliverable",
+    "text": "Project Deliverable\nExplore the Interactive Dashboard"
+  },
+  {
+    "objectID": "projects/case31.html#limitations",
+    "href": "projects/case31.html#limitations",
+    "title": "Credit Union Customer Insights",
+    "section": "Limitations",
+    "text": "Limitations\nThe findings represent descriptive results from an academic survey dataset. Geographic differences should not be interpreted as statistically significant without additional testing.\nOnly aggregate results are presented. Public distribution remains subject to permission to share the academic case results."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mickyas Shawel",
+    "section": "",
+    "text": "I am a graduate student pursuing a Master of Science in Digital Marketing at California State Polytechnic University, Pomona, with a Bachelor of Science in Marketing Management.\nMy professional interests lie at the intersection of marketing strategy, data analytics, advertising technology, and consumer behavior. I leverage analytical tools and research methodologies to translate complex data into actionable marketing insights."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Mickyas Shawel",
+    "section": "",
+    "text": "I am a graduate student pursuing a Master of Science in Digital Marketing at California State Polytechnic University, Pomona, with a Bachelor of Science in Marketing Management.\nMy professional interests lie at the intersection of marketing strategy, data analytics, advertising technology, and consumer behavior. I leverage analytical tools and research methodologies to translate complex data into actionable marketing insights."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Mickyas Shawel",
+    "section": "Education",
+    "text": "Education\n\nCalifornia State Polytechnic University, Pomona\n\nM.S. Digital Marketing — In Progress\nB.S. Marketing Management"
+  },
+  {
+    "objectID": "index.html#career-aspirations",
+    "href": "index.html#career-aspirations",
+    "title": "Mickyas Shawel",
+    "section": "Career Aspirations",
+    "text": "Career Aspirations\nMy career objective is to pursue opportunities in marketing analytics, advertising operations, programmatic advertising, and marketing science.\nMy long-term goal is to contribute to marketing education as a university instructor, combining professional industry experience with academic research."
+  },
+  {
+    "objectID": "index.html#technical-and-professional-skills",
+    "href": "index.html#technical-and-professional-skills",
+    "title": "Mickyas Shawel",
+    "section": "Technical and Professional Skills",
+    "text": "Technical and Professional Skills\n\n\n\n\n\n\n\nCategory\nSkills\n\n\n\n\nData Analytics\nR, SQL, Excel, BigQuery\n\n\nData Visualization\nTableau, Looker Studio, Quarto\n\n\nDigital Analytics\nGoogle Analytics 4, Google Search Console\n\n\nPaid Media\nGoogle Ads, Meta Ads, Programmatic Advertising\n\n\nAdvertising Operations\nCampaign Measurement, CM360 Fundamentals\n\n\nSEO\nSEMrush, Keyword Research, Technical SEO\n\n\nMarketing Research\nSurvey Design, Regression, Consumer Behavior\n\n\nDevelopment\nHTML, CSS, SCSS, GitHub, RStudio"
+  },
+  {
+    "objectID": "index.html#professional-certifications",
+    "href": "index.html#professional-certifications",
+    "title": "Mickyas Shawel",
+    "section": "Professional Certifications",
+    "text": "Professional Certifications\n\nGoogle Analytics 4 Certification\nGoogle Ads Display Certification\nSEMrush Keyword Research\nSEMrush Technical SEO\nExcel Pivot Tables"
+  },
+  {
+    "objectID": "index.html#featured-work",
+    "href": "index.html#featured-work",
+    "title": "Mickyas Shawel",
+    "section": "Featured Work",
+    "text": "Featured Work\n\n\n\n\n\n\nNoteMarketing Analytics and Research\n\n\n\nExplore my CEP Research Dashboard to learn about the application of marketing analytics to customer relationship management and technology adoption.\n\n\n\n\n\n\n\n\nNoteProfessional Portfolio\n\n\n\nExplore my Portfolio Projects to discover selected projects in digital marketing, analytics, and research.\n\n\n\n\n\n\n\n\nNoteWebsite Development\n\n\n\nLearn how this website was developed and customized using CSS and SCSS."
+  },
+  {
+    "objectID": "customization.html",
+    "href": "customization.html",
+    "title": "Designing a Professional Quarto Website",
+    "section": "",
+    "text": "A professional website requires more than informative content. Its visual appearance, organization, accessibility, and usability influence how effectively visitors engage with the information presented.\nThis portfolio demonstrates how Cascading Style Sheets (CSS) and Sassy CSS (SCSS) can extend Quarto’s default website functionality to create a consistent professional identity."
+  },
+  {
+    "objectID": "customization.html#introduction",
+    "href": "customization.html#introduction",
+    "title": "Designing a Professional Quarto Website",
+    "section": "",
+    "text": "A professional website requires more than informative content. Its visual appearance, organization, accessibility, and usability influence how effectively visitors engage with the information presented.\nThis portfolio demonstrates how Cascading Style Sheets (CSS) and Sassy CSS (SCSS) can extend Quarto’s default website functionality to create a consistent professional identity."
+  },
+  {
+    "objectID": "customization.html#understanding-css-and-scss",
+    "href": "customization.html#understanding-css-and-scss",
+    "title": "Designing a Professional Quarto Website",
+    "section": "Understanding CSS and SCSS",
+    "text": "Understanding CSS and SCSS\n\nWhat is CSS?\nCascading Style Sheets (CSS) is a stylesheet language used to control the presentation of HTML documents. CSS allows developers to customize typography, colors, spacing, borders, positioning, and responsive layouts without changing the underlying content.\n\n\nWhat is SCSS?\nSCSS is an extension of CSS that introduces additional programming features, including variables, nesting, reusable rules, and mixins.\nQuarto compiles SCSS into standard CSS and integrates custom themes with the Bootstrap framework.\n\n\nComparing CSS and SCSS\n\n\n\nFeature\nCSS\nSCSS\n\n\n\n\nBrowser interpretation\nDirect\nCompiled into CSS\n\n\nVariables\nCustom properties\nSass variables\n\n\nNesting\nSupported in modern CSS\nSupported\n\n\nMixins\nNot native\nSupported\n\n\nBootstrap customization\nCSS overrides\nTheme-level customization\n\n\nPortfolio application\nComponent styling\nGlobal design system"
+  },
+  {
+    "objectID": "customization.html#establishing-a-professional-visual-identity",
+    "href": "customization.html#establishing-a-professional-visual-identity",
+    "title": "Designing a Professional Quarto Website",
+    "section": "Establishing a Professional Visual Identity",
+    "text": "Establishing a Professional Visual Identity\nA consistent visual identity helps communicate professionalism and improves the visitor experience.\nThis portfolio uses a navy-and-blue color palette to establish visual consistency across navigation, headings, tables, buttons, and analytical visualizations.\n\nPortfolio Color Palette\n\n\n\n\nPrimary Navy\n#142B42\n\n\n\n\nSecondary Blue\n#245578\n\n\n\n\nAccent Blue\n#86B6CF\n\n\n\n\nLight Background\n#F4F6F9\n\n\n\n\nBody Text\n#334155"
+  },
+  {
+    "objectID": "customization.html#customizing-quarto-with-scss",
+    "href": "customization.html#customizing-quarto-with-scss",
+    "title": "Designing a Professional Quarto Website",
+    "section": "Customizing Quarto with SCSS",
+    "text": "Customizing Quarto with SCSS\n\nGlobal Theme Variables\nThe theme.scss file establishes the global visual identity of the portfolio.\n/*-- scss:defaults --*/\n\n$primary: #142b42;\n$secondary: #245578;\n$info: #86b6cf;\n\n$body-bg: #ffffff;\n$body-color: #334155;\n\n$navbar-bg: #142b42;\n$navbar-fg: #ffffff;\n\n$headings-font-weight: 700;\n$border-radius: 0.5rem;\nThese variables customize Bootstrap’s default appearance and establish consistent styling throughout the website.\n\n\nCustom Styling Rules\nThe SCSS rules section defines additional styling for specific website elements.\n/*-- scss:rules --*/\n\nh1, h2, h3 {\n  color: $primary;\n  font-weight: 700;\n}\n\n.navbar {\n  box-shadow: 0 2px 8px rgba(20, 43, 66, 0.12);\n}\n\n.card {\n  border-radius: 0.75rem;\n  border: 1px solid #dce3eb;\n}\nSeparating theme variables from styling rules makes the website easier to maintain and customize."
+  },
+  {
+    "objectID": "customization.html#extending-website-components-with-css",
+    "href": "customization.html#extending-website-components-with-css",
+    "title": "Designing a Professional Quarto Website",
+    "section": "Extending Website Components with CSS",
+    "text": "Extending Website Components with CSS\nThe styles.css file provides additional control over individual website components.\n\nReusable CSS Variables\nCSS custom properties allow developers to reuse design values throughout a stylesheet.\n:root {\n  --portfolio-navy: #142b42;\n  --portfolio-blue: #245578;\n  --portfolio-accent: #86b6cf;\n  --portfolio-light: #f4f6f9;\n  --portfolio-text: #334155;\n}\nUsing reusable variables reduces repetitive code and improves design consistency.\n\n\nCustom Content Cards\nThe following CSS class creates a styled content container.\n.demo-card {\n  background-color: var(--portfolio-light);\n  border: 1px solid #dce3eb;\n  border-left: 4px solid var(--portfolio-blue);\n  border-radius: 8px;\n  padding: 1.5rem;\n  margin: 1.5rem 0;\n}\n\nLive Demonstration\n\n\n\nMarketing Analytics\nMarketing analytics combines statistical analysis, customer research, and digital measurement to support evidence-based business decisions.\nThis card demonstrates how custom CSS can improve the visual presentation of professional content.\n\n\nProfessional Skill Tags\nReusable CSS classes can also create visual labels for professional competencies.\n.skill-tag {\n  display: inline-block;\n  background-color: #eaf1f7;\n  color: #142b42;\n  border-radius: 20px;\n  padding: 0.35rem 0.85rem;\n  font-weight: 600;\n}\n\nLive Demonstration\nR SQL Google Analytics 4 Tableau Marketing Research SEO Paid Media Quarto Plotly Advertising Operations\n\n\n\nInteractive Buttons\nCSS pseudo-classes allow website elements to respond to user interactions.\n.btn-primary:hover {\n  background-color: #245578;\n  border-color: #245578;\n  color: #ffffff;\n}\n\nLive Demonstration\nExplore the Analytics Dashboard\nExplore Portfolio Projects\nHovering over the primary button demonstrates how CSS can provide visual feedback during user interaction."
+  },
+  {
+    "objectID": "customization.html#integrating-html-with-quarto",
+    "href": "customization.html#integrating-html-with-quarto",
+    "title": "Designing a Professional Quarto Website",
+    "section": "Integrating HTML with Quarto",
+    "text": "Integrating HTML with Quarto\nQuarto supports Markdown alongside native HTML. This allows developers to create customized layouts and components beyond standard Markdown formatting.\nFor example, an HTML container can use a CSS class defined in an external stylesheet.\n&lt;div class=\"demo-card\"&gt;\n  &lt;h3&gt;Customer Insights&lt;/h3&gt;\n  &lt;p&gt;Transforming customer data into actionable insights.&lt;/p&gt;\n&lt;/div&gt;\nQuarto also supports fenced divisions, which provide a Markdown-friendly alternative to HTML containers.\n::: {.demo-card}\n### Customer Insights\n\nTransforming customer data into actionable insights.\n:::\nBoth approaches allow developers to apply reusable styling to website content."
+  },
+  {
+    "objectID": "customization.html#responsive-website-design",
+    "href": "customization.html#responsive-website-design",
+    "title": "Designing a Professional Quarto Website",
+    "section": "Responsive Website Design",
+    "text": "Responsive Website Design\nResponsive design allows websites to adapt to different screen sizes, including desktop computers, tablets, and mobile devices.\nCSS media queries apply styling rules based on device or viewport characteristics.\n@media (max-width: 768px) {\n\n  .profile-photo {\n    max-width: 220px;\n    display: block;\n    margin: 0 auto 1.5rem auto;\n  }\n\n  .demo-card {\n    padding: 1rem;\n  }\n\n  .btn-lg {\n    font-size: 1rem;\n  }\n}\nThese rules help maintain readability and appropriate spacing on smaller screens.\nResponsive design is particularly important for professional portfolio websites because recruiters and employers may access them from different devices."
+  },
+  {
+    "objectID": "customization.html#accessibility-and-user-experience",
+    "href": "customization.html#accessibility-and-user-experience",
+    "title": "Designing a Professional Quarto Website",
+    "section": "Accessibility and User Experience",
+    "text": "Accessibility and User Experience\nWebsite customization should improve usability without creating unnecessary barriers for visitors.\nThe portfolio stylesheet incorporates visible keyboard focus indicators and reduced-motion preferences.\n\nKeyboard Navigation\na:focus-visible,\nbutton:focus-visible {\n  outline: 3px solid #86b6cf;\n  outline-offset: 3px;\n}\nVisible focus indicators help keyboard users identify interactive elements.\n\n\nReduced Motion\n@media (prefers-reduced-motion: reduce) {\n\n  .project-card,\n  .btn,\n  .modebar {\n    transition: none;\n  }\n\n  .project-card:hover {\n    transform: none;\n  }\n}\nThis media query respects visitors who prefer reduced visual motion.\nAdditional accessibility considerations include:\n\nAppropriate color contrast\nDescriptive alternative text for images\nLogical heading structures\nReadable typography\nMeaningful navigation labels\nAccessible data visualizations"
+  },
+  {
+    "objectID": "customization.html#applying-css-and-scss-to-quarto-dashboards",
+    "href": "customization.html#applying-css-and-scss-to-quarto-dashboards",
+    "title": "Designing a Professional Quarto Website",
+    "section": "Applying CSS and SCSS to Quarto Dashboards",
+    "text": "Applying CSS and SCSS to Quarto Dashboards\nThe Case 31 Customer Insights Dashboard demonstrates how website customization can improve the presentation of analytical results.\nThe dashboard incorporates:\n\nCustomized navigation colors\nRounded KPI value boxes\nConsistent card headings\nProfessional typography\nStyled analytical tables\nInteractive Plotly visualizations\nScrollable content sections\n\n\nDashboard Styling Example\n.quarto-dashboard .card-header {\n  background-color: #f4f6f9;\n  color: #142b42;\n  font-weight: 700;\n  border-bottom: 1px solid #dce3eb;\n}\n\n\nLive Analytical Presentation\n\n\nCase 31 — Customer Insights\n\n\n\nPerformance indicator\nResult\n\n\n\n\nSurvey respondents\n128\n\n\nEmployee performance\n4.21 / 5\n\n\nMember needs\n3.59 / 5\n\n\nSavings rate rating\n3.07 / 5\n\n\nFavorable needs rating\n59.4%\n\n\nCronbach’s alpha\n0.866\n\n\n\nThese aggregate results demonstrate how customized analytical presentations can communicate research findings to business decision-makers.\nView Interactive Dashboard"
+  },
+  {
+    "objectID": "customization.html#integrating-stylesheets-with-quarto",
+    "href": "customization.html#integrating-stylesheets-with-quarto",
+    "title": "Designing a Professional Quarto Website",
+    "section": "Integrating Stylesheets with Quarto",
+    "text": "Integrating Stylesheets with Quarto\n\nWebsite Configuration\nThe _quarto.yml configuration file connects the website to its custom SCSS theme and CSS stylesheet.\nformat:\n  html:\n    theme: [cosmo, theme.scss]\n    css: styles.css\n\n\nDashboard Configuration\nThe dashboard uses its own format configuration to apply the same design system.\nformat:\n  dashboard:\n    theme: [cosmo, theme.scss]\n    css: styles.css\n    scrolling: true\n    embed-resources: false\nUsing both configurations helps maintain a consistent visual identity between standard website pages and interactive dashboards."
+  },
+  {
+    "objectID": "customization.html#practical-applications-across-this-portfolio",
+    "href": "customization.html#practical-applications-across-this-portfolio",
+    "title": "Designing a Professional Quarto Website",
+    "section": "Practical Applications Across This Portfolio",
+    "text": "Practical Applications Across This Portfolio\n\n\n\n\n\n\n\n\nWebsite component\nCustomization technique\nIntended benefit\n\n\n\n\nNavigation\nSCSS theme variables\nConsistent branding\n\n\nHomepage\nResponsive CSS\nProfessional presentation\n\n\nTypography\nBootstrap theme customization\nReadability\n\n\nProject cards\nReusable CSS classes\nContent organization\n\n\nSkill tags\nCustom CSS classes\nCompetency identification\n\n\nDashboard\nSCSS and CSS\nAnalytical communication\n\n\nTables\nCSS selectors\nImproved readability\n\n\nButtons\nHover pseudo-classes\nInteractive feedback\n\n\nListings\nCustomized typography and categories\nProject discovery\n\n\nAccessibility\nFocus indicators and media queries\nInclusive design"
+  },
+  {
+    "objectID": "customization.html#key-learning-outcomes",
+    "href": "customization.html#key-learning-outcomes",
+    "title": "Designing a Professional Quarto Website",
+    "section": "Key Learning Outcomes",
+    "text": "Key Learning Outcomes\nDeveloping this portfolio demonstrates my understanding of how Quarto, HTML, CSS, SCSS, and Bootstrap work together to create professional websites.\nThrough this project, I have developed practical experience in:\n\nEstablishing a reusable visual design system.\nCustomizing Bootstrap through SCSS variables.\nCreating reusable website components.\nIntegrating HTML and Markdown.\nApplying responsive design principles.\nPresenting analytical findings through interactive dashboards.\nIncorporating accessibility considerations.\n\nThese capabilities support my professional interests in marketing analytics, digital marketing, advertising operations, and data-driven business communication."
+  },
+  {
+    "objectID": "customization.html#additional-resources",
+    "href": "customization.html#additional-resources",
+    "title": "Designing a Professional Quarto Website",
+    "section": "Additional Resources",
+    "text": "Additional Resources\n\nQuarto Website Documentation\nQuarto HTML Themes\nQuarto Dashboards\nBootstrap Documentation\nMDN CSS Documentation\nSass Documentation"
+  },
+  {
+    "objectID": "cep.html",
+    "href": "cep.html",
+    "title": "Marketing Analytics & Research",
+    "section": "",
+    "text": "My Culminating Experience Project focuses on Salesforce CRM adoption, user engagement, and the identification of factors influencing technology adoption within an organization.\nThe project demonstrates the application of marketing research, statistical analysis, and data-driven decision-making to organizational challenges."
+  },
+  {
+    "objectID": "cep.html#msdm-culminating-experience-project",
+    "href": "cep.html#msdm-culminating-experience-project",
+    "title": "Marketing Analytics & Research",
+    "section": "",
+    "text": "My Culminating Experience Project focuses on Salesforce CRM adoption, user engagement, and the identification of factors influencing technology adoption within an organization.\nThe project demonstrates the application of marketing research, statistical analysis, and data-driven decision-making to organizational challenges."
+  },
+  {
+    "objectID": "cep.html#featured-analytics-dashboard",
+    "href": "cep.html#featured-analytics-dashboard",
+    "title": "Marketing Analytics & Research",
+    "section": "Featured Analytics Dashboard",
+    "text": "Featured Analytics Dashboard\n\nCase 31 | Credit Union Customer Insights\nAs an alternative to confidential Culminating Experience Project data, this interactive dashboard uses Case 31 survey results to demonstrate my analytical and data visualization capabilities.\nThe analysis examines:\n\nEmployee performance and service quality\nMember satisfaction and financial needs\nFinancial product awareness and usage\nCompetitive interest rate perceptions\nGeographic customer segmentation\nMeasurement reliability\n\n\n\n\n\n\n\nNoteDataset Overview\n\n\n\n\n128 survey respondents\n34 original variables\n14 financial products\n3 interactive visualizations\n4 dashboard sections\n\n\n\nExplore the Interactive Dashboard"
+  },
+  {
+    "objectID": "cep.html#technical-skills-demonstrated",
+    "href": "cep.html#technical-skills-demonstrated",
+    "title": "Marketing Analytics & Research",
+    "section": "Technical Skills Demonstrated",
+    "text": "Technical Skills Demonstrated\n\n\n\nCompetency\nTools and Methods\n\n\n\n\nData preparation\nR, haven, dplyr, tidyr\n\n\nStatistical analysis\nDescriptive statistics, composite measures\n\n\nReliability analysis\nCronbach’s alpha, psych\n\n\nData visualization\nPlotly\n\n\nAnalytical reporting\nQuarto Dashboards\n\n\nWebsite development\nQuarto, HTML, CSS, SCSS\n\n\nWebsite publication\nGitHub Pages"
+  },
+  {
+    "objectID": "cep.html#business-applications",
+    "href": "cep.html#business-applications",
+    "title": "Marketing Analytics & Research",
+    "section": "Business Applications",
+    "text": "Business Applications\nThe dashboard illustrates how marketing analytics can support:\n\nCustomer experience optimization\nFinancial product marketing\nCustomer segmentation\nCompetitive positioning\nEvidence-based managerial decision-making"
+  },
+  {
+    "objectID": "cep.html#data-privacy-and-research-ethics",
+    "href": "cep.html#data-privacy-and-research-ethics",
+    "title": "Marketing Analytics & Research",
+    "section": "Data Privacy and Research Ethics",
+    "text": "Data Privacy and Research Ethics\nThe dashboard presents aggregate academic case results rather than individual survey records or confidential client information.\nThe findings are descriptive and should not be interpreted as causal relationships or statistically significant differences."
+  },
+  {
+    "objectID": "listings.html",
+    "href": "listings.html",
+    "title": "Professional Project Portfolio",
+    "section": "",
+    "text": "This portfolio showcases my academic and applied experience in marketing analytics, customer insights, digital marketing, and data-driven decision-making.\nEach project demonstrates the application of analytical tools, research methodologies, and marketing frameworks to business challenges."
+  },
+  {
+    "objectID": "listings.html#introduction",
+    "href": "listings.html#introduction",
+    "title": "Professional Project Portfolio",
+    "section": "",
+    "text": "This portfolio showcases my academic and applied experience in marketing analytics, customer insights, digital marketing, and data-driven decision-making.\nEach project demonstrates the application of analytical tools, research methodologies, and marketing frameworks to business challenges."
+  },
+  {
+    "objectID": "listings.html#explore-my-projects",
+    "href": "listings.html#explore-my-projects",
+    "title": "Professional Project Portfolio",
+    "section": "Explore My Projects",
+    "text": "Explore My Projects\nBrowse the projects below to explore my experience across marketing research, data visualization, digital analytics, search engine optimization, and machine learning.\nUse the search, sorting, and category filtering features to discover projects relevant to your interests.\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\nCredit Union Customer Insights\n\n\n\nMarketing Analytics\n\nCustomer Insights\n\nData Visualization\n\nR Programming\n\n\n\nInteractive customer insights dashboard examining employee performance, financial product awareness, member satisfaction, and geographic segmentation.\n\n\n\n\n\n\n\n\n\nGoogle Analytics 4 Micro Application\n\n\n\nDigital Analytics\n\nGA4\n\nMarketing Analytics\n\nMarketing Measurement\n\n\n\nDigital analytics project demonstrating website performance measurement, traffic acquisition, user engagement, and data-driven marketing insights using Google Analytics 4.\n\n\n\n\n\n\n\n\n\nSalesforce CRM Adoption Research\n\n\n\nMarketing Research\n\nMarketing Analytics\n\nCRM\n\nConsumer Behavior\n\n\n\nGraduate-level marketing research examining Salesforce adoption, user engagement, technology acceptance, and organizational adoption barriers.\n\n\n\n\n\n\n\n\n\nThe Effect of Discounts on Retail Sales\n\n\n\nMachine Learning\n\nMarketing Analytics\n\nStatistical Analysis\n\nRetail Marketing\n\n\n\nApplied machine learning and statistical analysis examining the relationship between promotional discounts and retail sales performance.\n\n\n\n\n\n\n\n\n\nWellness Ranch | On-Page SEO Strategy\n\n\n\nSEO\n\nDigital Marketing\n\nMarketing Analytics\n\nContent Strategy\n\nTechnical SEO\n\n\n\nApplied search engine optimization strategy focused on keyword research, technical SEO, website accessibility, content optimization, and organic search visibility for a…\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "listings.html#understanding-quarto-listings",
+    "href": "listings.html#understanding-quarto-listings",
+    "title": "Professional Project Portfolio",
+    "section": "Understanding Quarto Listings",
+    "text": "Understanding Quarto Listings\n\nWhat are Quarto Listings?\nQuarto Listings provide an automated approach to organizing and displaying website content based on document metadata.\nRather than manually updating a portfolio whenever a new project is completed, listings allow Quarto to dynamically generate a collection of project entries during the rendering process.\nThis functionality is particularly useful for:\n\nProfessional portfolios\nAcademic research websites\nMarketing analytics projects\nBlogs and publications\nData science case studies\nProject documentation\n\n\n\nTypes of Listings\nQuarto supports several listing formats depending on the intended presentation and audience.\n\n\n\n\n\n\n\n\nListing type\nDescription\nRecommended application\n\n\n\n\nDefault\nVertically organized content\nBlogs and articles\n\n\nGrid\nCard-based visual presentation\nProfessional portfolios\n\n\nTable\nStructured rows and columns\nResearch and project directories\n\n\n\nThis portfolio uses the grid format to create a structured and visually accessible presentation of professional projects."
+  },
+  {
+    "objectID": "listings.html#implementing-quarto-listings",
+    "href": "listings.html#implementing-quarto-listings",
+    "title": "Professional Project Portfolio",
+    "section": "Implementing Quarto Listings",
+    "text": "Implementing Quarto Listings\n\nProject Organization\nEach project is maintained as an individual Quarto document within a dedicated projects directory.\nM10/\n├── _quarto.yml\n├── index.qmd\n├── cep.qmd\n├── dashboard.qmd\n├── customization.qmd\n├── listings.qmd\n├── theme.scss\n├── styles.css\n└── projects/\n    └── Individual project documents (.qmd)\nThis structure separates website navigation, visual customization, analytical dashboards, and individual project content.\n\n\nDocument Metadata\nEach project document contains a YAML header that defines its title, description, and relevant categories.\nFor example:\n---\ntitle: \"Credit Union Customer Insights\"\ndescription: \"An interactive dashboard examining customer satisfaction and financial product awareness.\"\ncategories:\n  - Marketing Analytics\n  - Customer Insights\n  - Data Visualization\n---\nQuarto extracts this metadata and uses it to automatically populate the portfolio listing.\n\n\nListing Configuration\nThe following YAML configuration demonstrates how a grid-based listing can be implemented.\nlisting:\n  id: portfolio-projects\n  contents: projects\n  type: grid\n  grid-columns: 2\n  categories: true\n  sort-ui: true\n  filter-ui: true\n  sort: \"title asc\"\n  fields: [title, description, categories]\n\n\n\nConfiguration\nFunction\n\n\n\n\nid\nIdentifies the listing placement\n\n\ncontents\nSpecifies the source directory\n\n\ntype\nDetermines the presentation format\n\n\ngrid-columns\nSets the number of grid columns\n\n\ncategories\nEnables category-based navigation\n\n\nsort-ui\nEnables interactive sorting\n\n\nfilter-ui\nEnables search functionality\n\n\nsort\nDefines the initial sorting order\n\n\nfields\nDetermines the displayed metadata"
+  },
+  {
+    "objectID": "listings.html#benefits-for-a-professional-portfolio",
+    "href": "listings.html#benefits-for-a-professional-portfolio",
+    "title": "Professional Project Portfolio",
+    "section": "Benefits for a Professional Portfolio",
+    "text": "Benefits for a Professional Portfolio\n\nAutomated Content Management\nNew projects can be incorporated into the portfolio by adding individual Quarto documents to the projects directory and rendering the website.\nThis reduces manual maintenance and supports long-term portfolio development.\n\n\nImproved User Experience\nCategory filtering, searching, and sorting allow recruiters, employers, and other visitors to quickly identify projects relevant to their interests.\n\n\nScalability\nAs additional academic, professional, and independent projects are completed, the portfolio can expand without requiring substantial changes to the website structure.\n\n\nConsistent Professional Branding\nQuarto Listings integrate with the website’s CSS and SCSS stylesheets, allowing project cards to maintain a consistent visual identity across the portfolio.\n\nPractical Application\nThis page demonstrates the implementation of automated content management through Quarto Listings. The project collection is generated from individual documents rather than manually constructed HTML cards."
+  },
+  {
+    "objectID": "listings.html#key-learning-outcomes",
+    "href": "listings.html#key-learning-outcomes",
+    "title": "Professional Project Portfolio",
+    "section": "Key Learning Outcomes",
+    "text": "Key Learning Outcomes\nThrough the development of this portfolio, I demonstrated the ability to:\n\nConfigure automated Quarto Listings.\nOrganize website content using document metadata.\nImplement grid-based project presentations.\nEnable interactive searching, sorting, and filtering.\nIntegrate listings with custom CSS and SCSS.\nDevelop a scalable professional portfolio.\nPresent academic and analytical work to professional audiences."
+  },
+  {
+    "objectID": "listings.html#additional-resources",
+    "href": "listings.html#additional-resources",
+    "title": "Professional Project Portfolio",
+    "section": "Additional Resources",
+    "text": "Additional Resources\n\nQuarto Listings Documentation\nQuarto Website Documentation\nQuarto HTML Theming\nQuarto Dashboards"
+  },
+  {
+    "objectID": "projects/crm.html",
+    "href": "projects/crm.html",
+    "title": "Salesforce CRM Adoption Research",
+    "section": "",
+    "text": "The Salesforce CRM Adoption Research project is part of my Master of Science in Digital Marketing Culminating Experience Project at California State Polytechnic University, Pomona.\nThe research examines Salesforce adoption, user engagement, and factors that may influence the effective utilization of customer relationship management technology within an organization.\nThe project integrates marketing research, behavioral theory, and data analytics to support evidence-based organizational decision-making.\n\n\n\n\n\n\nNoteResearch Status\n\n\n\nThis project is currently in progress. Confidential organizational information, proprietary datasets, and research findings will not be publicly disclosed without appropriate authorization."
+  },
+  {
+    "objectID": "projects/crm.html#project-overview",
+    "href": "projects/crm.html#project-overview",
+    "title": "Salesforce CRM Adoption Research",
+    "section": "",
+    "text": "The Salesforce CRM Adoption Research project is part of my Master of Science in Digital Marketing Culminating Experience Project at California State Polytechnic University, Pomona.\nThe research examines Salesforce adoption, user engagement, and factors that may influence the effective utilization of customer relationship management technology within an organization.\nThe project integrates marketing research, behavioral theory, and data analytics to support evidence-based organizational decision-making.\n\n\n\n\n\n\nNoteResearch Status\n\n\n\nThis project is currently in progress. Confidential organizational information, proprietary datasets, and research findings will not be publicly disclosed without appropriate authorization."
+  },
+  {
+    "objectID": "projects/crm.html#business-problem",
+    "href": "projects/crm.html#business-problem",
+    "title": "Salesforce CRM Adoption Research",
+    "section": "Business Problem",
+    "text": "Business Problem\nCustomer relationship management platforms provide organizations with opportunities to improve customer relationships, operational efficiency, and sales performance.\nHowever, the effectiveness of CRM technology depends on consistent adoption, meaningful user engagement, and integration into organizational workflows.\nUnderstanding adoption patterns and potential barriers can help organizations identify opportunities to improve technology utilization and employee engagement."
+  },
+  {
+    "objectID": "projects/crm.html#project-objectives",
+    "href": "projects/crm.html#project-objectives",
+    "title": "Salesforce CRM Adoption Research",
+    "section": "Project Objectives",
+    "text": "Project Objectives\n\n\n\nObjective\nDescription\n\n\n\n\nPO1\nMeasure current Salesforce adoption.\n\n\nPO2\nIdentify adoption barriers and drivers.\n\n\nPO3\nSegment users and develop targeted engagement strategies.\n\n\nPO4\nImplement and evaluate an engagement campaign.\n\n\n\nThese objectives represent the proposed project direction and may be refined as the research progresses."
+  },
+  {
+    "objectID": "projects/crm.html#research-focus-and-individual-contribution",
+    "href": "projects/crm.html#research-focus-and-individual-contribution",
+    "title": "Salesforce CRM Adoption Research",
+    "section": "Research Focus and Individual Contribution",
+    "text": "Research Focus and Individual Contribution\nMy primary analytical focus is identifying factors associated with Salesforce adoption and user engagement.\nMy research responsibilities include:\n\nReviewing academic literature on CRM adoption.\nEvaluating theoretical frameworks for technology acceptance.\nIdentifying potential adoption barriers and drivers.\nDeveloping analytical objectives and research frameworks.\nEvaluating measurement and data requirements.\nSupporting the interpretation of CRM usage patterns.\nTranslating research insights into actionable recommendations."
+  },
+  {
+    "objectID": "projects/crm.html#theoretical-research-framework",
+    "href": "projects/crm.html#theoretical-research-framework",
+    "title": "Salesforce CRM Adoption Research",
+    "section": "Theoretical Research Framework",
+    "text": "Theoretical Research Framework\n\nTechnology Acceptance Model (TAM)\nThe Technology Acceptance Model examines how perceived usefulness and perceived ease of use influence attitudes toward technology and behavioral intentions.\nWithin the context of Salesforce adoption, TAM provides a framework for investigating whether users perceive the platform as beneficial to their responsibilities and sufficiently accessible to incorporate into their workflows.\n\n\nUnified Theory of Acceptance and Use of Technology (UTAUT)\nUTAUT extends technology acceptance research by examining four central constructs:\n\nPerformance expectancy\nEffort expectancy\nSocial influence\nFacilitating conditions\n\nThese constructs provide a broader perspective for understanding how individual perceptions and organizational conditions may influence Salesforce adoption.\n\n\nFramework Comparison\n\n\n\n\n\n\n\n\nDimension\nTAM\nUTAUT\n\n\n\n\nPrimary focus\nIndividual technology acceptance\nIndividual and organizational adoption\n\n\nKey constructs\nUsefulness and ease of use\nPerformance, effort, social influence, and facilitating conditions\n\n\nStrength\nParsimonious and interpretable\nBroader explanatory framework\n\n\nLimitation\nLimited organizational context\nGreater measurement complexity\n\n\nCRM application\nUnderstanding user perceptions\nExamining adoption within organizational environments\n\n\n\nThese frameworks represent theoretical approaches for investigating adoption. Their empirical evaluation depends on the availability of appropriate measurements."
+  },
+  {
+    "objectID": "projects/crm.html#analytical-methodology",
+    "href": "projects/crm.html#analytical-methodology",
+    "title": "Salesforce CRM Adoption Research",
+    "section": "Analytical Methodology",
+    "text": "Analytical Methodology\nThe proposed analytical workflow consists of the following stages:\n\n1. Research and Literature Review\nEvaluate established academic research concerning CRM adoption, technology acceptance, employee engagement, and organizational behavior.\n\n\n2. Data Preparation\nPrepare available Salesforce CRM records for analysis through data cleaning, variable assessment, missing-value evaluation, and appropriate aggregation.\n\n\n3. Exploratory Data Analysis\nExamine observable patterns in platform activity, user engagement, and CRM utilization.\n\n\n4. Adoption and Engagement Analysis\nDevelop appropriate behavioral indicators to assess differences in Salesforce usage and identify potential engagement patterns.\n\n\n5. User Segmentation\nExplore opportunities to segment users based on observable engagement characteristics and available organizational information.\n\n\n6. Managerial Recommendations\nTranslate supported analytical findings into practical recommendations for improving CRM engagement and technology utilization."
+  },
+  {
+    "objectID": "projects/crm.html#potential-analytical-indicators",
+    "href": "projects/crm.html#potential-analytical-indicators",
+    "title": "Salesforce CRM Adoption Research",
+    "section": "Potential Analytical Indicators",
+    "text": "Potential Analytical Indicators\n\n\n\nIndicator\nBusiness application\n\n\n\n\nLogin frequency\nAssess platform engagement\n\n\nUser activity\nExamine utilization patterns\n\n\nOpportunity activity\nEvaluate observable sales workflow engagement\n\n\nRecord updates\nAssess CRM maintenance behavior\n\n\nEngagement consistency\nIdentify recurring usage patterns\n\n\nUser segmentation\nSupport targeted engagement strategies\n\n\n\nThese indicators are proposed measures rather than reported research findings."
+  },
+  {
+    "objectID": "projects/crm.html#technical-skills-demonstrated",
+    "href": "projects/crm.html#technical-skills-demonstrated",
+    "title": "Salesforce CRM Adoption Research",
+    "section": "Technical Skills Demonstrated",
+    "text": "Technical Skills Demonstrated\n\n\n\n\n\n\n\nTool or competency\nApplication\n\n\n\n\nSalesforce CRM\nCustomer relationship management and behavioral data\n\n\nR Programming\nStatistical analysis and data preparation\n\n\nRStudio\nReproducible analytical workflows\n\n\nQuarto\nResearch documentation and reporting\n\n\nZotero\nAcademic literature management\n\n\nGitHub\nVersion control and collaborative research\n\n\nMarketing Research\nResearch design and analytical frameworks\n\n\nData Visualization\nCommunication of analytical insights"
+  },
+  {
+    "objectID": "projects/crm.html#managerial-applications",
+    "href": "projects/crm.html#managerial-applications",
+    "title": "Salesforce CRM Adoption Research",
+    "section": "Managerial Applications",
+    "text": "Managerial Applications\nThe research may support organizational initiatives related to:\n\nCRM adoption and utilization\nEmployee engagement\nTechnology onboarding and training\nSales workflow optimization\nTargeted engagement campaigns\nOrganizational change management\nData-driven managerial decision-making"
+  },
+  {
+    "objectID": "projects/crm.html#academic-and-professional-development",
+    "href": "projects/crm.html#academic-and-professional-development",
+    "title": "Salesforce CRM Adoption Research",
+    "section": "Academic and Professional Development",
+    "text": "Academic and Professional Development\nThis project demonstrates the integration of marketing research, technology acceptance theory, business analytics, and strategic decision-making.\nIt also contributes to my professional development in marketing analytics, customer insights, marketing technology, and data-driven business strategy."
+  },
+  {
+    "objectID": "projects/crm.html#research-limitations-and-confidentiality",
+    "href": "projects/crm.html#research-limitations-and-confidentiality",
+    "title": "Salesforce CRM Adoption Research",
+    "section": "Research Limitations and Confidentiality",
+    "text": "Research Limitations and Confidentiality\nThe project remains under development.\nBehavioral CRM records may demonstrate observable usage patterns but do not independently establish users’ attitudes, motivations, or perceived barriers.\nTheoretical constructs requiring direct measurement should not be treated as empirically validated without appropriate supporting data.\nConfidential datasets, organizational identifiers, and proprietary findings are excluded from this public portfolio."
+  },
+  {
+    "objectID": "projects/crm.html#related-analytics-demonstration",
+    "href": "projects/crm.html#related-analytics-demonstration",
+    "title": "Salesforce CRM Adoption Research",
+    "section": "Related Analytics Demonstration",
+    "text": "Related Analytics Demonstration\nTo demonstrate my analytical and dashboard development capabilities without disclosing confidential CEP information, I developed an interactive customer insights dashboard using an alternative academic dataset.\nExplore the Case 31 Analytics Dashboard\nView the CEP Research Portal"
+  },
+  {
+    "objectID": "projects/crm.html#academic-references",
+    "href": "projects/crm.html#academic-references",
+    "title": "Salesforce CRM Adoption Research",
+    "section": "Academic References",
+    "text": "Academic References\nDavis, F. D. (1989). Perceived usefulness, perceived ease of use, and user acceptance of information technology. MIS Quarterly, 13(3), 319–340.\nVenkatesh, V., Morris, M. G., Davis, G. B., & Davis, F. D. (2003). User acceptance of information technology: Toward a unified view. MIS Quarterly, 27(3), 425–478."
+  },
+  {
+    "objectID": "projects/retail.html",
+    "href": "projects/retail.html",
+    "title": "The Effect of Discounts on Retail Sales",
+    "section": "",
+    "text": "This graduate-level applied machine learning project examines the relationship between promotional discounts and retail sales performance.\nThe project explores how statistical analysis and predictive modeling can support retail pricing and promotional decision-making."
+  },
+  {
+    "objectID": "projects/retail.html#project-overview",
+    "href": "projects/retail.html#project-overview",
+    "title": "The Effect of Discounts on Retail Sales",
+    "section": "",
+    "text": "This graduate-level applied machine learning project examines the relationship between promotional discounts and retail sales performance.\nThe project explores how statistical analysis and predictive modeling can support retail pricing and promotional decision-making."
+  },
+  {
+    "objectID": "projects/retail.html#business-problem",
+    "href": "projects/retail.html#business-problem",
+    "title": "The Effect of Discounts on Retail Sales",
+    "section": "Business Problem",
+    "text": "Business Problem\nRetail organizations frequently use discounts to stimulate consumer demand. However, promotional decisions must balance potential sales growth against profitability and long-term business performance."
+  },
+  {
+    "objectID": "projects/retail.html#research-objectives",
+    "href": "projects/retail.html#research-objectives",
+    "title": "The Effect of Discounts on Retail Sales",
+    "section": "Research Objectives",
+    "text": "Research Objectives\n\nExamine the relationship between discounts and retail sales.\nExplore factors associated with sales performance.\nEvaluate the usefulness of statistical and predictive modeling for promotional decisions.\nTranslate analytical insights into managerial recommendations."
+  },
+  {
+    "objectID": "projects/retail.html#analytical-framework",
+    "href": "projects/retail.html#analytical-framework",
+    "title": "The Effect of Discounts on Retail Sales",
+    "section": "Analytical Framework",
+    "text": "Analytical Framework\nThe project addresses the following analytical stages:\n\nData preparation and exploration\nDescriptive statistical analysis\nExploratory data visualization\nStatistical and predictive modeling\nModel evaluation\nManagerial interpretation"
+  },
+  {
+    "objectID": "projects/retail.html#technical-skills",
+    "href": "projects/retail.html#technical-skills",
+    "title": "The Effect of Discounts on Retail Sales",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\n\n\nCompetency\nApplication\n\n\n\n\nR Programming\nStatistical computing\n\n\nData Preparation\nOrganizing analytical datasets\n\n\nExploratory Data Analysis\nIdentifying patterns and relationships\n\n\nRegression\nExamining relationships between variables\n\n\nMachine Learning\nPredictive analytical approaches\n\n\nData Visualization\nCommunicating analytical insights\n\n\nQuarto\nReproducible reporting"
+  },
+  {
+    "objectID": "projects/retail.html#business-applications",
+    "href": "projects/retail.html#business-applications",
+    "title": "The Effect of Discounts on Retail Sales",
+    "section": "Business Applications",
+    "text": "Business Applications\nThe analytical framework can support:\n\nPromotional campaign planning\nRetail pricing strategy\nSales forecasting\nDiscount effectiveness evaluation\nMarketing resource allocation"
+  },
+  {
+    "objectID": "projects/retail.html#professional-relevance",
+    "href": "projects/retail.html#professional-relevance",
+    "title": "The Effect of Discounts on Retail Sales",
+    "section": "Professional Relevance",
+    "text": "Professional Relevance\nThis project demonstrates how marketing analytics and machine learning can be applied to commercial decision-making, connecting quantitative research with practical retail marketing strategy."
+  },
+  {
+    "objectID": "projects/retail.html#academic-context",
+    "href": "projects/retail.html#academic-context",
+    "title": "The Effect of Discounts on Retail Sales",
+    "section": "Academic Context",
+    "text": "Academic Context\n\nInstitution: California State Polytechnic University, Pomona\nProgram: Master of Science in Digital Marketing\nCourse: IBM 6540 — Applied Machine Learning\nProject type: Collaborative academic research"
+  },
+  {
+    "objectID": "projects/retail.html#project-limitations",
+    "href": "projects/retail.html#project-limitations",
+    "title": "The Effect of Discounts on Retail Sales",
+    "section": "Project Limitations",
+    "text": "Project Limitations\nThis portfolio entry summarizes the research scope and analytical framework. Specific model results and performance metrics are not reported here."
+  }
+]

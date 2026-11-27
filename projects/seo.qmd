@@ -1,0 +1,416 @@
+---
+title: "Wellness Ranch | On-Page SEO Strategy"
+description: "Applied search engine optimization strategy focused on keyword research, technical SEO, website accessibility, content optimization, and organic search visibility for a nonprofit organization."
+categories:
+  - SEO
+  - Digital Marketing
+  - Marketing Analytics
+  - Content Strategy
+  - Technical SEO
+toc: true
+toc-depth: 2
+---
+
+## Project Overview
+
+The Wellness Ranch On-Page SEO Strategy project demonstrates the application of search engine optimization, digital marketing research, and website performance analysis to a nonprofit organization.
+
+Wellness Ranch Equine Assisted Therapy is a nonprofit organization based in Rancho Cucamonga, California, providing equine-assisted therapeutic services.
+
+The project focused on developing a comprehensive SEO strategy to improve website discoverability, strengthen organic search visibility, and connect prospective clients with relevant therapeutic resources.
+
+::: {.callout-note}
+## Individual Contribution
+
+I served as the On-Page SEO Team Lead, contributing to keyword research, website auditing, metadata optimization, internal linking, structured data planning, and strategic performance recommendations.
+:::
+
+## Business Problem
+
+Nonprofit organizations frequently face challenges competing for online visibility due to limited marketing resources, technical website constraints, and competition from established service providers.
+
+For Wellness Ranch, improving organic search visibility represents an opportunity to increase awareness of equine-assisted therapy and connect with individuals searching for mental health and therapeutic services.
+
+The project addressed the following strategic challenges:
+
+- Limited non-branded keyword visibility.
+- Website crawlability and indexing concerns.
+- Opportunities to improve metadata and content structure.
+- Limited organic search measurement capabilities.
+- Opportunities to strengthen internal linking.
+- Website accessibility and technical performance.
+
+## Project Objectives
+
+| Objective | Description |
+|---|---|
+| Organic visibility | Improve discoverability for relevant therapeutic search queries. |
+| Keyword targeting | Identify relevant keywords aligned with user search intent. |
+| On-page optimization | Develop optimized titles, descriptions, headings, and website content. |
+| Technical SEO | Identify crawlability, indexing, mobile usability, and performance concerns. |
+| Website accessibility | Improve the accessibility and usability of website content. |
+| Performance measurement | Establish measurable SEO performance indicators. |
+
+## Research and Analytical Tools
+
+The project incorporated digital marketing platforms and analytical tools to support website evaluation and strategic planning.
+
+| Platform | Application |
+|---|---|
+| SEMrush | Keyword research, competitive analysis, and website auditing. |
+| Google Search Console | Proposed organic search and indexing measurement. |
+| Google Analytics 4 | Proposed website engagement and conversion measurement. |
+| Ubersuggest | Supplemental keyword research. |
+| AnswerThePublic | Search intent and question-based content research. |
+| WAVE | Website accessibility evaluation. |
+| Wix | Website content management and SEO implementation planning. |
+| Google Keyword Planner | Supplemental keyword opportunity identification. |
+
+## SEO Strategy Framework
+
+The project followed a structured optimization framework connecting research, website improvements, and performance measurement.
+
+```{mermaid}
+flowchart TD
+    A[Website and SEO Audit] --> B[Keyword Research]
+    B --> C[Search Intent Analysis]
+    C --> D[Keyword Mapping]
+    D --> E[On-Page Optimization]
+    E --> F[Technical SEO and Accessibility]
+    F --> G[Internal Linking and Structured Data]
+    G --> H[Performance Measurement]
+    H --> I[Continuous Optimization]
+    I --> A
+```
+
+## Keyword Research and Search Intent
+
+Keyword research focused on identifying relevant search queries associated with equine-assisted therapy, mental health services, and local therapeutic resources.
+
+Keywords were evaluated according to:
+
+- Relevance to organizational services.
+- Search volume.
+- Keyword difficulty.
+- Geographic relevance.
+- Search intent.
+- Potential contribution to website engagement.
+
+### Search Intent Classification
+
+| Search intent | User objective | Illustrative keyword |
+|---|---|---|
+| Informational | Learn about a therapeutic service. | What is equine-assisted therapy? |
+| Navigational | Locate a specific organization. | Wellness Ranch Therapy |
+| Commercial | Evaluate available therapeutic options. | Equine therapy near me |
+| Transactional | Contact or request a service. | Schedule equine therapy consultation |
+| Local | Identify nearby service providers. | Equine therapy Rancho Cucamonga |
+
+The keyword examples illustrate the targeting strategy rather than verified keyword rankings.
+
+### Keyword Mapping
+
+Keyword mapping connects relevant search queries with appropriate website pages.
+
+| Website page | Illustrative keyword focus |
+|---|---|
+| Homepage | Equine-assisted therapy |
+| About page | Wellness Ranch equine therapy |
+| Services page | Equine-assisted psychotherapy |
+| FAQ page | Benefits of equine-assisted therapy |
+| Contact page | Equine therapy Rancho Cucamonga |
+| Blog content | How equine-assisted therapy works |
+
+This approach helps establish topical relevance while reducing unnecessary competition between website pages.
+
+## On-Page SEO Optimization
+
+On-page SEO focuses on improving individual website pages to strengthen their relevance, accessibility, and search engine discoverability.
+
+### Optimization Components
+
+| Component | Strategic application |
+|---|---|
+| Title tags | Develop descriptive, keyword-aligned page titles. |
+| Meta descriptions | Communicate page relevance and encourage search engagement. |
+| H1 headings | Establish a clear primary topic for each page. |
+| H2 and H3 headings | Organize supporting content logically. |
+| Image alt text | Improve accessibility and communicate image context. |
+| URL structure | Maintain descriptive and understandable page addresses. |
+| Internal links | Connect related content and support website navigation. |
+| Calls to action | Guide visitors toward relevant next steps. |
+
+### Metadata Optimization Example
+
+::: {.demo-card}
+
+**Illustrative optimized title**
+
+Equine-Assisted Therapy in Rancho Cucamonga | Wellness Ranch
+
+**Illustrative meta description**
+
+Discover equine-assisted therapy at Wellness Ranch in Rancho Cucamonga. Learn about therapeutic services and explore available resources.
+
+:::
+
+The example demonstrates how metadata can communicate service relevance, geographic context, and organizational identity.
+
+## Technical SEO
+
+Technical SEO focuses on improving the ability of search engines to discover, crawl, understand, and index website content.
+
+The technical SEO evaluation addressed the following areas.
+
+| Technical component | Evaluation focus |
+|---|---|
+| Crawlability | Identify barriers preventing search engines from accessing pages. |
+| Indexability | Evaluate whether relevant pages can appear in search results. |
+| XML sitemap | Support search engine discovery of important website pages. |
+| Mobile usability | Improve the experience across mobile devices. |
+| Core Web Vitals | Evaluate loading performance, responsiveness, and visual stability. |
+| Broken links | Identify links leading to unavailable resources. |
+| Image optimization | Reduce unnecessary image file sizes. |
+| HTTPS | Support secure website communication. |
+
+Technical recommendations were developed to support future implementation and monitoring.
+
+## Internal Linking Strategy
+
+Internal linking helps users navigate related content while supporting search engines in understanding website structure.
+
+```{mermaid}
+flowchart TD
+    A[Homepage] --> B[About Wellness Ranch]
+    A --> C[Therapeutic Services]
+    A --> D[Frequently Asked Questions]
+    A --> E[Educational Resources]
+    A --> F[Contact Page]
+    B --> C
+    C --> D
+    C --> F
+    D --> F
+    E --> C
+    E --> D
+```
+
+A structured internal linking strategy can support:
+
+- Website navigation.
+- Content discoverability.
+- Relationships between relevant topics.
+- Visitor engagement.
+- Access to important service information.
+- Conversion opportunities.
+
+## Structured Data and Schema Markup
+
+Structured data provides machine-readable information that helps search engines understand website entities and content.
+
+The project considered several schema types.
+
+| Schema type | Potential application |
+|---|---|
+| Organization | Communicate organizational identity. |
+| LocalBusiness | Describe relevant local business information where appropriate. |
+| FAQPage | Identify frequently asked questions and answers. |
+| BreadcrumbList | Communicate website navigation hierarchy. |
+
+### JSON-LD Example
+
+The following example demonstrates a simplified organizational schema structure.
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Wellness Ranch Equine Assisted Therapy",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Rancho Cucamonga",
+    "addressRegion": "CA",
+    "addressCountry": "US"
+  }
+}
+```
+
+Structured data can improve machine-readable content interpretation. However, implementation does not guarantee higher rankings or enhanced search result appearances.
+
+## Website Accessibility and User Experience
+
+Website accessibility is an important component of an effective digital marketing strategy, particularly for organizations serving individuals seeking therapeutic support.
+
+Accessibility considerations included:
+
+- Descriptive image alternative text.
+- Appropriate heading hierarchy.
+- Readable typography.
+- Sufficient color contrast.
+- Descriptive link text.
+- Mobile-friendly navigation.
+- Clear calls to action.
+- Accessible website content.
+
+These considerations support a more inclusive and effective website experience.
+
+## SEO Performance Measurement
+
+A successful SEO strategy requires measurable objectives and ongoing performance evaluation.
+
+### Proposed Key Performance Indicators
+
+| KPI | Proposed target | Time frame |
+|---|---|---|
+| Organic website traffic | Increase by 20–30% | Six months |
+| Target keyword rankings | Improve by 10–20% using an agreed ranking measure | 90 days |
+| Educational content | Publish two optimized articles | Monthly |
+| Local search visibility | Improve relevant local search presence | Ongoing |
+| Website performance | Target Lighthouse performance score above 85 | Following optimization |
+| Organic engagement | Improve engagement with relevant service pages | Ongoing |
+| Organic conversions | Establish baseline and monitor improvement | Ongoing |
+
+::: {.callout-important}
+## Performance Measurement Disclaimer
+
+These indicators represent proposed strategic targets rather than verified campaign outcomes. Actual performance should be evaluated using validated baseline measurements and post-implementation analytics.
+:::
+
+## SEO Implementation Roadmap
+
+```{mermaid}
+gantt
+    title Proposed SEO Implementation Roadmap
+    dateFormat YYYY-MM-DD
+    axisFormat %b %d
+
+    section Research
+    Website audit             :a1, 2027-01-01, 14d
+    Keyword research          :a2, after a1, 14d
+
+    section Optimization
+    Metadata and headings     :b1, after a2, 14d
+    Internal linking          :b2, after a2, 14d
+    Technical improvements    :b3, after b1, 21d
+
+    section Content
+    Content development       :c1, after a2, 35d
+
+    section Measurement
+    Performance monitoring    :d1, after b3, 30d
+    Strategy refinement       :d2, after d1, 14d
+```
+
+The roadmap illustrates a potential implementation sequence. Dates are illustrative and do not represent an approved organizational schedule.
+
+## Technical Skills Demonstrated
+
+| Skill area | Application |
+|---|---|
+| Search engine optimization | On-page and technical SEO strategy. |
+| Keyword research | Keyword identification and prioritization. |
+| Marketing analytics | Performance measurement and KPI development. |
+| Content strategy | Search intent and content alignment. |
+| Website auditing | Identification of technical and structural concerns. |
+| Structured data | JSON-LD and schema markup planning. |
+| Accessibility | Website usability and accessibility evaluation. |
+| Project leadership | Coordination of on-page SEO deliverables. |
+| Strategic communication | Translation of technical findings into recommendations. |
+
+## Managerial Applications
+
+The project demonstrates how SEO research can support organizational decision-making.
+
+### Improving Organic Discoverability
+
+Relevant keyword targeting and optimized website content can help prospective clients discover therapeutic resources through organic search.
+
+### Supporting Resource Allocation
+
+Website audits help decision-makers prioritize technical improvements according to their potential impact and implementation requirements.
+
+### Strengthening Content Strategy
+
+Search intent analysis supports the development of educational content aligned with audience needs and common questions.
+
+### Establishing Accountability
+
+Performance indicators provide a framework for evaluating whether implemented SEO recommendations contribute to organizational objectives.
+
+## Professional Relevance
+
+This project strengthened my ability to integrate digital marketing strategy, website analytics, technical SEO, and consumer search behavior.
+
+The experience is directly relevant to professional opportunities in:
+
+- Search engine optimization.
+- Search engine marketing.
+- Digital marketing analytics.
+- Marketing strategy.
+- Website performance optimization.
+- Content marketing.
+- Marketing measurement.
+
+The project also demonstrates my ability to translate technical website findings into actionable recommendations that support organizational objectives.
+
+## Project Limitations
+
+The project primarily focused on research, website evaluation, strategic planning, and optimization recommendations.
+
+Several limitations should be considered:
+
+- Proposed SEO targets are not verified performance outcomes.
+- Search engine rankings and keyword metrics change over time.
+- Some recommendations depend on website administration access.
+- Search Console and analytics measurement require appropriate configuration.
+- Organic search performance depends on multiple external factors.
+- Implementation effectiveness requires ongoing monitoring.
+
+No unsupported claims regarding traffic growth, ranking improvements, or conversion increases are presented.
+
+## Related Portfolio Projects
+
+Explore additional projects demonstrating my experience in marketing research, analytics, and digital marketing.
+
+::: {.demo-card}
+
+**Google Analytics 4 Micro Application**
+
+Website performance measurement, acquisition analysis, and digital marketing insights.
+
+[Explore GA4 Project](ga4.qmd)
+
+:::
+
+::: {.demo-card}
+
+**Credit Union Customer Insights**
+
+Interactive marketing analytics dashboard examining customer satisfaction, financial product awareness, and geographic segmentation.
+
+[Explore Customer Insights Project](case31.qmd)
+
+:::
+
+::: {.demo-card}
+
+**Salesforce CRM Adoption Research**
+
+Graduate-level marketing research examining technology adoption and user engagement.
+
+[Explore CRM Research Project](crm.qmd)
+
+:::
+
+## Additional Resources
+
+- [Google Search Central](https://developers.google.com/search)
+- [Google SEO Starter Guide](https://developers.google.com/search/docs/fundamentals/seo-starter-guide)
+- [SEMrush](https://www.semrush.com/)
+- [Google Search Console](https://search.google.com/search-console/)
+- [Google PageSpeed Insights](https://pagespeed.web.dev/)
+- [Schema.org](https://schema.org/)
+- [WAVE Accessibility Evaluation Tool](https://wave.webaim.org/)
+
+---
+
+[Return to Professional Project Portfolio](../listings.qmd)

@@ -1,0 +1,29 @@
+# RStudio files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Quarto temporary files
+.quarto/
+_site/
+**/*.quarto_ipynb
+
+# Confidential data
+data/
+private/
+.env
+*.xlsx
+*.xls
+*.csv
+*.sav
+*.zsav
+*.por
+*.rds
+*.RData
+
+# Academic submission files
+submission/
+
+# macOS system files
+.DS_Store
